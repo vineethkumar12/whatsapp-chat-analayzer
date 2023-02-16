@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from io import StringIO
 from collections import Counter
-import matplotlib.pyplot as plt
+
 from PIL import Image
 import streamlit as st
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
