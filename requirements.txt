@@ -1,0 +1,10 @@
+matplotlib==3.6.1
+
+nltk==3.2.4
+
+
+pandas==1.5.1
+wordcloud==1.8.2.2
+emoji==1.7.0
+urlextract==1.8.0
+streamlit==1.18.1
