@@ -1,5 +1,5 @@
 import streamlit as st
-import matlotlib
+import pre
 import pandas as pd
 from io import StringIO
 import helper
@@ -10,7 +10,7 @@ a=False
 if docx_file is not None:
    bytes_data=docx_file.getvalue()
    file_like_object = StringIO(bytes_data.decode("utf-8"))
-   data,scr = matlotlib.preprocess(file_like_object)
+   data,scr = pre.preprocess(file_like_object)
    st.dataframe(data)
 	   # fetch unique users
    user_list = data['Contact'].unique().tolist()

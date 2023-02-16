@@ -42,7 +42,7 @@ def getMassage(line):
 def preprocess(a):
         
         data=[]
-        collection='chat1.txt'
+        
         with a as fp:
 
             fp.readline()
@@ -77,9 +77,10 @@ def preprocess(a):
         
         
         sentiments = SentimentIntensityAnalyzer()
-        data["Positive"] = [sentiments.polarity_scores(i)["pos"] for i in data["Message"]]
-        data["Negative"] = [sentiments.polarity_scores(i)["neg"] for i in data["Message"]]
-        data["Neutral"] = [sentiments.polarity_scores(i)["neu"] for i in data["Message"]]
+        data = data.assign(Positive=data["Message"].apply(lambda x: sentiments.polarity_scores(x)["pos"]))
+        data = data.assign(Negative=data["Message"].apply(lambda x: sentiments.polarity_scores(x)["neg"]))
+        data = data.assign(Neutral=data["Message"].apply(lambda x: sentiments.polarity_scores(x)["neu"]))
+
         x=sum(data["Positive"])
         y=sum(data["Negative"])
         z=sum(data["Neutral"])
