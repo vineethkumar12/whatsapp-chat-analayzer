@@ -1,0 +1,1332 @@
+24/02/21, 5:05 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+27/07/21, 7:25 am - Vinay Fd Kitsw: <Media omitted>
+28/08/21, 8:24 pm - Vineeth Kumar: <Media omitted>
+01/08/22, 4:36 pm - Vinay Fd Kitsw: Missed voice call
+02/08/22, 10:23 am - Vineeth Kumar: Hi
+02/08/22, 1:49 pm - Vinay Fd Kitsw: Balance led
+02/08/22, 1:49 pm - Vinay Fd Kitsw: Ra
+02/08/22, 1:48 pm - Vinay Fd Kitsw: Missed voice call
+04/08/22, 1:43 pm - Vinay Fd Kitsw: Cheppu ra
+05/08/22, 2:47 pm - Vineeth Kumar: Adiginavara
+05/08/22, 5:38 pm - Vinay Fd Kitsw: Led ra
+06/08/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+06/08/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+06/08/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+06/08/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+06/08/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+06/08/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+06/08/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+08/08/22, 6:03 pm - Vineeth Kumar: <Media omitted>
+08/08/22, 6:19 pm - Vinay Fd Kitsw: ravatle ra
+08/08/22, 6:19 pm - Vineeth Kumar: To lower function use chay
+08/08/22, 6:20 pm - Vinay Fd Kitsw: import java.util.*;
+class demo3
+{ public static void main(String args[])
+{
+Scanner obj=new Scanner(System.in);
+char str=obj.next().charAt(0); 
+char ch;
+for( ch='a';ch<='z';ch++)
+{
+for(int i=0;i<str.length();i++)
+{
+if(str.charAt(i)==ch)
+{
+}
+else
+{
+System.out.println(ch);
+}
+}
+}
+}
+}
+08/08/22, 6:20 pm - Vineeth Kumar: String ni read chay ar
+08/08/22, 6:22 pm - Vinay Fd Kitsw: alla str avupadatledha a ra
+08/08/22, 8:22 pm - Vineeth Kumar: import java.util.*; 
+
+class javafile {
+public static void main(String arg[]) {
+  
+   
+   
+    Scanner ob=new Scanner(System.in);
+    String str= ob.next(); 
+    //String str1=obj.next();
+    char ch;
+    for( ch='a';ch<='z';ch++)
+    {  String ch1=""; 
+       String st=Character.toString(ch); 
+            for(int i=0;i<str.length();i++)
+              {   
+                String st1=Character.toString(str.charAt(i));
+                    if((st1.equalsIgnoreCase(st)))
+                     {   ch1=st;
+                       
+                     }
+                     
+                     
+
+                  
+               }     
+             
+             if(!(st.equalsIgnoreCase(ch1)))        
+                System.out.print(" "+ch); 
+                     
+                      
+     
+    }
+   
+     
+   
+   
+
+
+
+
+ }
+ 
+
+}
+08/08/22, 9:26 pm - Vineeth Kumar: <Media omitted>
+08/08/22, 9:26 pm - Vineeth Kumar: <Media omitted>
+09/08/22, 10:14 am - Vineeth Kumar: <Media omitted>
+09/08/22, 10:15 am - Vineeth Kumar: Array idhi output ami vasthadhi ra
+10/08/22, 3:14 pm - Vineeth Kumar: https://youtu.be/CKAn5dCK6RE
+11/08/22, 9:39 am - Vineeth Kumar: https://youtu.be/3HNyXCPDQ7Q
+13/08/22, 10:40 am - Vinay Fd Kitsw: Arey sai ganiki cheppina
+13/08/22, 10:40 am - Vinay Fd Kitsw: Cheppinattu undu
+13/08/22, 10:40 am - Vineeth Kumar: Okkasari adagavara Vanni 🎉
+13/08/22, 10:41 am - Vinay Fd Kitsw: Nuv adugu
+13/08/22, 10:41 am - Vinay Fd Kitsw: Ra
+13/08/22, 10:41 am - Vineeth Kumar: Please okasari adugavara
+13/08/22, 10:41 am - Vineeth Kumar: Vadu
+13/08/22, 10:41 am - Vineeth Kumar: Msg chestha choodatam ledhu
+13/08/22, 10:42 am - Vinay Fd Kitsw: Mo ra duram undu nak
+13/08/22, 10:42 am - Vineeth Kumar: Please
+13/08/22, 10:42 am - Vineeth Kumar: Ra
+13/08/22, 10:44 am - Vinay Fd Kitsw: Cheppindu ata ra
+13/08/22, 10:44 am - Vinay Fd Kitsw: Ok na
+13/08/22, 10:44 am - Vineeth Kumar: Ok ok☺️
+15/08/22, 11:09 am - Vineeth Kumar: Hi ra
+15/08/22, 11:10 am - Vinay Fd Kitsw: Paddadhi ra
+15/08/22, 11:10 am - Vinay Fd Kitsw: Attadance
+15/08/22, 8:44 pm - Vineeth Kumar: You deleted this message
+17/08/22, 3:09 pm - Vineeth Kumar: Basic 7 day long *Front-End Web Development | FREE BOOTCAMP*
+
+*No Prerequisite required*
+
+*You will learn:*
+1. HTML
+2. CSS
+3. JavaScript
+4. React
+5. Components in React
+6. Styling in React
+
+*Certificates are provided by DevTown and Microsoft at the end for free*
+
+*REGISTER NOW:!!*
+https://forms.gle/Y4UwRG4XC7jmf2to7
+
+*Join Bootcamp WhatsApp Group*
+https://chat.whatsapp.com/HODR7WZhImH5jCguRi158r
+21/08/22, 8:40 pm - Vinay Fd Kitsw: This message was deleted
+21/08/22, 8:41 pm - Vineeth Kumar: Vammmo
+21/08/22, 8:42 pm - Vinay Fd Kitsw: Pedha pedha projects chestandu
+21/08/22, 8:42 pm - Vinay Fd Kitsw: LinkedIn clone
+21/08/22, 8:42 pm - Vineeth Kumar: <Media omitted>
+21/08/22, 8:43 pm - Vinay Fd Kitsw: <Media omitted>
+21/08/22, 8:43 pm - Vineeth Kumar: <Media omitted>
+21/08/22, 8:44 pm - Vinay Fd Kitsw: <Media omitted>
+21/08/22, 8:45 pm - Vineeth Kumar: <Media omitted>
+21/08/22, 8:46 pm - Vinay Fd Kitsw: <Media omitted>
+21/08/22, 8:47 pm - Vineeth Kumar: Nv chaytle ra
+21/08/22, 8:47 pm - Vinay Fd Kitsw: Cheyatle
+21/08/22, 8:50 pm - Vineeth Kumar: Ohhho
+21/08/22, 8:50 pm - Vinay Fd Kitsw: Edho chinnadi chesa
+21/08/22, 8:50 pm - Vinay Fd Kitsw: Atla
+21/08/22, 8:50 pm - Vineeth Kumar: Vammo
+21/08/22, 8:50 pm - Vineeth Kumar: Amiti
+21/08/22, 8:51 pm - Vineeth Kumar: Mee  maa village lo bonalu
+21/08/22, 8:51 pm - Vinay Fd Kitsw: Authentication using firebase
+21/08/22, 8:51 pm - Vinay Fd Kitsw: Hoo
+21/08/22, 8:51 pm - Vineeth Kumar: Ohho
+21/08/22, 8:51 pm - Vineeth Kumar: Skillhib
+21/08/22, 8:52 pm - Vinay Fd Kitsw: Haa
+21/08/22, 8:52 pm - Vineeth Kumar: Chayyu ra iga meeru
+21/08/22, 8:53 pm - Vinay Fd Kitsw: Nuv kuda cheye mama
+21/08/22, 8:54 pm - Vineeth Kumar: <Media omitted>
+21/08/22, 9:12 pm - Vineeth Kumar: Photo pettra
+21/08/22, 9:13 pm - Vineeth Kumar: Vadu repu aduguthadu
+21/08/22, 9:13 pm - Vinay Fd Kitsw: Delete chesa
+21/08/22, 9:13 pm - Vineeth Kumar: 😱
+21/08/22, 9:13 pm - Vinay Fd Kitsw: Aaa
+21/08/22, 9:13 pm - Vineeth Kumar: Irikiinchinav kadara
+21/08/22, 9:14 pm - Vinay Fd Kitsw: Lyt
+21/08/22, 9:14 pm - Vineeth Kumar: Voke le
+23/08/22, 10:06 pm - Vinay Fd Kitsw: Missed video call
+23/08/22, 10:10 pm - Vinay Fd Kitsw: Missed video call
+23/08/22, 10:42 pm - Vinay Fd Kitsw: Missed video call
+23/08/22, 10:45 pm - Vinay Fd Kitsw: Missed video call
+24/08/22, 9:15 pm - Vinay Fd Kitsw: arey pampu ra mama
+24/08/22, 9:15 pm - Vinay Fd Kitsw: ans
+24/08/22, 9:37 pm - Vineeth Kumar: https://youtu.be/mG7rcSrQWwU
+24/08/22, 9:41 pm - Vineeth Kumar: Hlo
+24/08/22, 9:41 pm - Vineeth Kumar: Hlo
+24/08/22, 9:41 pm - Vineeth Kumar: Hlo
+25/08/22, 8:07 pm - Vineeth Kumar: Aray lab questions pettra
+25/08/22, 8:28 pm - Vineeth Kumar: Hlo
+25/08/22, 8:28 pm - Vineeth Kumar: Hlo
+25/08/22, 8:39 pm - Vinay Fd Kitsw: Emo ra
+25/08/22, 8:42 pm - Vineeth Kumar: Ok
+25/08/22, 9:58 pm - Vineeth Kumar: This ra
+25/08/22, 9:59 pm - Vineeth Kumar: 🍅
+25/08/22, 10:02 pm - Vineeth Kumar: <Media omitted>
+28/08/22, 5:58 pm - Vinay Fd Kitsw: <Media omitted>
+29/08/22, 8:13 pm - Vineeth Kumar: <Media omitted>
+29/08/22, 8:37 pm - Vinay Fd Kitsw: Enjoy
+31/08/22, 1:32 pm - Vineeth Kumar: <Media omitted>
+31/08/22, 6:42 pm - Vineeth Kumar: You deleted this message
+31/08/22, 6:42 pm - Vineeth Kumar: You deleted this message
+01/09/22, 2:18 pm - Vineeth Kumar: Attendance mama
+01/09/22, 2:19 pm - Vineeth Kumar: Hlo
+01/09/22, 2:19 pm - Vineeth Kumar: Hlo
+01/09/22, 6:54 pm - Vineeth Kumar: <Media omitted>
+08/09/22, 3:35 pm - Vinay Fd Kitsw: Missed voice call
+08/09/22, 3:41 pm - Vineeth Kumar: <Media omitted>
+08/09/22, 3:50 pm - Vinay Fd Kitsw: <Media omitted>
+15/09/22, 9:47 pm - Vineeth Kumar: <Media omitted>
+16/09/22, 7:53 pm - Vineeth Kumar: Class lo leventira
+16/09/22, 8:12 pm - Vinay Fd Kitsw: Unna ra
+17/09/22, 5:22 pm - Vinay Fd Kitsw: Missed voice call
+23/09/22, 1:32 pm - Vineeth Kumar: <Media omitted>
+23/09/22, 4:28 pm - Vinay Fd Kitsw: Untana
+29/09/22, 6:22 pm - Vinay Fd Kitsw: Missed voice call
+30/09/22, 4:22 pm - Vinay Fd Kitsw: Missed voice call
+01/10/22, 9:25 pm - Vinay Fd Kitsw: This message was deleted
+04/10/22, 1:26 pm - Vinay Fd Kitsw: Hii
+04/10/22, 1:26 pm - Vinay Fd Kitsw: Ra
+04/10/22, 1:26 pm - Vineeth Kumar: Hi ra
+04/10/22, 1:27 pm - Vineeth Kumar: Bathukamma adinava 😂😂
+04/10/22, 1:27 pm - Vinay Fd Kitsw: Adale
+04/10/22, 1:27 pm - Vineeth Kumar: Ayyyyyyyyyyo
+04/10/22, 1:27 pm - Vinay Fd Kitsw: Nuv adinav kadha
+04/10/22, 1:27 pm - Vineeth Kumar: No ra
+04/10/22, 1:27 pm - Vinay Fd Kitsw: Adinav
+04/10/22, 1:28 pm - Vineeth Kumar: Ami chesthunnavu
+04/10/22, 1:28 pm - Vinay Fd Kitsw: Em le kali
+04/10/22, 1:28 pm - Vineeth Kumar: Chaduvutha le
+04/10/22, 1:29 pm - Vinay Fd Kitsw: Chaduvu
+04/10/22, 1:46 pm - Vineeth Kumar: https://vineethkumar12.github.io/Moviesappwithalan/
+04/10/22, 8:50 pm - Vinay Fd Kitsw: <Media omitted>
+04/10/22, 8:54 pm - Vinay Fd Kitsw: <Media omitted>
+04/10/22, 8:55 pm - Vineeth Kumar: <Media omitted>
+04/10/22, 9:02 pm - Vinay Fd Kitsw: <Media omitted>
+04/10/22, 9:04 pm - Vinay Fd Kitsw: <Media omitted>
+04/10/22, 9:05 pm - Vinay Fd Kitsw: <Media omitted>
+05/10/22, 6:29 pm - Vinay Fd Kitsw: Missed voice call
+05/10/22, 6:36 pm - Vinay Fd Kitsw: Missed voice call
+05/10/22, 6:39 pm - Vinay Fd Kitsw: Dear Candidate,
+
+You applied at Business Web Solutions.
+
+Kindly visit the link below to find more details and complete your registration.
+
+https://www.businesswebsolutions.in/careers/
+
+For any enquiry, kindly call us on +91-8707319915 between 9am to 6pm. (Sat and Sun off)
+
+Regards
+Team BWS
+05/10/22, 6:41 pm - Vinay Fd Kitsw: <Media omitted>
+05/10/22, 6:53 pm - Vineeth Kumar: Exams tharuvatha try chadham
+05/10/22, 6:53 pm - Vinay Fd Kitsw: Ok
+06/10/22, 2:23 pm - Vineeth Kumar: Array mpmc
+06/10/22, 2:23 pm - Vineeth Kumar: PDFs send
+06/10/22, 2:24 pm - Vineeth Kumar: Chay ra
+06/10/22, 2:24 pm - Vinay Fd Kitsw: Aa
+06/10/22, 2:24 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:24 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:26 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:26 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:26 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:26 pm - Vineeth Kumar: Anni send chayu
+06/10/22, 2:26 pm - Vinay Fd Kitsw: Avvey unai
+06/10/22, 2:27 pm - Vineeth Kumar: K le
+06/10/22, 2:27 pm - Vinay Fd Kitsw: Completed aa
+06/10/22, 2:27 pm - Vineeth Kumar: Noo ra
+06/10/22, 2:27 pm - Vineeth Kumar: Ami kavtledhu
+06/10/22, 2:27 pm - Vinay Fd Kitsw: Hoo
+06/10/22, 2:28 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:28 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:28 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:28 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:28 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:28 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 2:28 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 4:21 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 4:21 pm - Vinay Fd Kitsw: 2nd dhi
+06/10/22, 4:30 pm - Vineeth Kumar: <Media omitted>
+06/10/22, 4:34 pm - Vineeth Kumar: <Media omitted>
+06/10/22, 4:46 pm - Vineeth Kumar: <Media omitted>
+06/10/22, 4:47 pm - Vineeth Kumar: You deleted this message
+06/10/22, 4:48 pm - Vineeth Kumar: <Media omitted>
+06/10/22, 4:54 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 5:03 pm - Vinay Fd Kitsw: <Media omitted>
+06/10/22, 5:07 pm - Vineeth Kumar: <Media omitted>
+06/10/22, 5:08 pm - Vinay Fd Kitsw: Ok done
+06/10/22, 5:09 pm - Vinay Fd Kitsw: Comparators varaka
+06/10/22, 5:09 pm - Vinay Fd Kitsw: Syllabus
+06/10/22, 5:09 pm - Vineeth Kumar: Thalidhu ra
+06/10/22, 5:10 pm - Vinay Fd Kitsw: Ok
+07/10/22, 12:13 pm - Vinay Fd Kitsw: Arey cs tutorials
+07/10/22, 12:13 pm - Vineeth Kumar: Levu ra
+07/10/22, 12:14 pm - Vineeth Kumar: Nenu mitra vaniki msg chestha
+07/10/22, 12:14 pm - Vinay Fd Kitsw: Ok
+07/10/22, 5:34 pm - Vinay Fd Kitsw: Cs tutorials
+07/10/22, 5:34 pm - Vineeth Kumar: Vadu Inka pettaledhu ra
+07/10/22, 5:34 pm - Vinay Fd Kitsw: Hoo ok
+07/10/22, 5:34 pm - Vinay Fd Kitsw: Em chestunnav
+07/10/22, 5:35 pm - Vinay Fd Kitsw: Pichilestundhi
+07/10/22, 5:35 pm - Vinay Fd Kitsw: Ra
+07/10/22, 5:35 pm - Vineeth Kumar: Songs vinutunna
+07/10/22, 5:35 pm - Vineeth Kumar: Ra
+07/10/22, 5:35 pm - Vinay Fd Kitsw: Hoo ok
+07/10/22, 5:35 pm - Vinay Fd Kitsw: Ra
+07/10/22, 5:35 pm - Vinay Fd Kitsw: Enjoy
+07/10/22, 5:36 pm - Vineeth Kumar: <Media omitted>
+07/10/22, 5:36 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 5:37 pm - Vineeth Kumar: <Media omitted>
+07/10/22, 5:37 pm - Vinay Fd Kitsw: Ok
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 7:50 pm - Vinay Fd Kitsw: <Media omitted>
+07/10/22, 9:16 pm - Vineeth Kumar: 62 ni adugura
+07/10/22, 9:16 pm - Vinay Fd Kitsw: Em ani
+07/10/22, 9:16 pm - Vineeth Kumar: T sol
+07/10/22, 9:16 pm - Vineeth Kumar: Cs
+07/10/22, 9:16 pm - Vinay Fd Kitsw: Adigina
+07/10/22, 9:16 pm - Vineeth Kumar: Amandhi
+07/10/22, 9:16 pm - Vinay Fd Kitsw: Nik pampina kadha
+07/10/22, 9:17 pm - Vineeth Kumar: Avve na
+07/10/22, 9:18 pm - Vinay Fd Kitsw: Aa sanjana vi avvi
+07/10/22, 9:18 pm - Vineeth Kumar: Ohho 😂😀
+07/10/22, 9:18 pm - Vinay Fd Kitsw: Venkat gadu petindu
+07/10/22, 9:18 pm - Vinay Fd Kitsw: 62 kuda pampindhi
+07/10/22, 9:19 pm - Vineeth Kumar: Adhe chusthunna system avrdhi anesi
+07/10/22, 9:19 pm - Vineeth Kumar: Laptop
+07/10/22, 9:19 pm - Vinay Fd Kitsw: Chocolate di
+07/10/22, 9:19 pm - Vineeth Kumar: Haaa
+07/10/22, 9:19 pm - Vineeth Kumar: Nice
+07/10/22, 9:19 pm - Vinay Fd Kitsw: Aa
+07/10/22, 9:20 pm - Vinay Fd Kitsw: Venkat gani frst love telusa
+07/10/22, 9:20 pm - Vineeth Kumar: 🥳🥳🥳❤️❤️❤️❤️
+07/10/22, 9:20 pm - Vinay Fd Kitsw: Lakshmi
+07/10/22, 9:20 pm - Vineeth Kumar: Avru
+07/10/22, 9:20 pm - Vinay Fd Kitsw: Chinnapati lover
+07/10/22, 9:21 pm - Vineeth Kumar: Ohho pottadu gattode
+07/10/22, 9:21 pm - Vinay Fd Kitsw: Vani toni anaku
+07/10/22, 9:21 pm - Vineeth Kumar: Haa ananu
+07/10/22, 9:21 pm - Vinay Fd Kitsw: Ok
+07/10/22, 9:21 pm - Vineeth Kumar: Mari ippudu
+07/10/22, 9:21 pm - Vinay Fd Kitsw: Single
+07/10/22, 9:22 pm - Vineeth Kumar: Bongu
+07/10/22, 9:22 pm - Vinay Fd Kitsw: Sanjana
+07/10/22, 9:22 pm - Vineeth Kumar: Haaa may be
+07/10/22, 9:22 pm - Vinay Fd Kitsw: Anukunta
+07/10/22, 9:22 pm - Vinay Fd Kitsw: Haa
+07/10/22, 9:22 pm - Vineeth Kumar: Bitiki no antadu but lopata ❤️
+07/10/22, 9:22 pm - Vinay Fd Kitsw: Aaa
+07/10/22, 9:23 pm - Vineeth Kumar: Gudi kattesadu
+07/10/22, 9:23 pm - Vinay Fd Kitsw: Future undhi ra nik
+07/10/22, 9:23 pm - Vinay Fd Kitsw: Haa
+07/10/22, 9:23 pm - Vineeth Kumar: Haaa
+07/10/22, 9:23 pm - Vinay Fd Kitsw: Ok ra tinnava
+07/10/22, 9:23 pm - Vineeth Kumar: Haa ra u
+07/10/22, 9:23 pm - Vinay Fd Kitsw: Aaa tinna
+07/10/22, 9:24 pm - Vineeth Kumar: Mummy ami curry chesindhi
+07/10/22, 9:24 pm - Vinay Fd Kitsw: Biryani
+07/10/22, 9:24 pm - Vinay Fd Kitsw: Midhi
+07/10/22, 9:24 pm - Vineeth Kumar: 😋😋😋
+07/10/22, 9:24 pm - Vineeth Kumar: Dal ra
+07/10/22, 9:24 pm - Vinay Fd Kitsw: Eyyu
+07/10/22, 9:25 pm - Vineeth Kumar: Biryani 2 days full ayyindhi
+07/10/22, 9:25 pm - Vinay Fd Kitsw: Hoo
+07/10/22, 9:25 pm - Vineeth Kumar: Padesanu nenu ithe
+07/10/22, 9:25 pm - Vinay Fd Kitsw: Oooo
+07/10/22, 9:25 pm - Vinay Fd Kitsw: Njoy
+07/10/22, 9:25 pm - Vineeth Kumar: 2 days chesukunnam
+07/10/22, 9:25 pm - Vinay Fd Kitsw: Avuna
+07/10/22, 9:25 pm - Vineeth Kumar: Haa
+07/10/22, 9:26 pm - Vinay Fd Kitsw: Beer taginava
+07/10/22, 9:26 pm - Vineeth Kumar: Second day maa sisters vacharu valla kosam malli chesam
+07/10/22, 9:26 pm - Vineeth Kumar: Biryani
+07/10/22, 9:26 pm - Vinay Fd Kitsw: Hoo
+07/10/22, 9:26 pm - Vinay Fd Kitsw: Ok
+07/10/22, 9:26 pm - Vineeth Kumar: Noo ra
+07/10/22, 9:26 pm - Vinay Fd Kitsw: Acha ok
+07/10/22, 9:26 pm - Vineeth Kumar: <Media omitted>
+07/10/22, 9:27 pm - Vinay Fd Kitsw: Ooo
+07/10/22, 9:27 pm - Vinay Fd Kitsw: Eyyu
+07/10/22, 9:27 pm - Vineeth Kumar: 😋😋😋😋
+07/10/22, 9:27 pm - Vinay Fd Kitsw: Ok ra mari
+07/10/22, 9:27 pm - Vinay Fd Kitsw: Gd n8
+07/10/22, 9:27 pm - Vineeth Kumar: Haa ra gn
+07/10/22, 9:27 pm - Vinay Fd Kitsw: Aa
+07/10/22, 9:32 pm - Vineeth Kumar: <Media omitted>
+08/10/22, 12:52 pm - Vineeth Kumar: You deleted this message
+09/10/22, 3:01 pm - Vinay Fd Kitsw: <Media omitted>
+09/10/22, 3:01 pm - Vinay Fd Kitsw: <Media omitted>
+09/10/22, 3:06 pm - Vinay Fd Kitsw: <Media omitted>
+09/10/22, 3:06 pm - Vinay Fd Kitsw: <Media omitted>
+10/10/22, 6:27 pm - Vineeth Kumar: <Media omitted>
+10/10/22, 7:08 pm - Vineeth Kumar: <Media omitted>
+10/10/22, 8:02 pm - Vineeth Kumar: https://youtube.com/playlist?list=PLANE0PeTlppQ_UZAOt4OfSJGNW1U9dUi5
+10/10/22, 9:21 pm - Vineeth Kumar: Array default offset address
+10/10/22, 9:21 pm - Vineeth Kumar: Pic pettra
+10/10/22, 9:23 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 8:00 am - Vineeth Kumar: Ohho
+11/10/22, 8:22 am - Vinay Fd Kitsw: 😜
+11/10/22, 7:16 pm - Vineeth Kumar: Array firstc6 pages pampava nenu rasukolrdhu please
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:19 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 7:25 pm - Vineeth Kumar: Inka konni pampava
+11/10/22, 7:26 pm - Vinay Fd Kitsw: Kastam ra
+11/10/22, 7:30 pm - Vinay Fd Kitsw: <Media omitted>
+11/10/22, 9:13 pm - Vineeth Kumar: <Media omitted>
+12/10/22, 6:52 pm - Vinay Fd Kitsw: <Media omitted>
+12/10/22, 7:20 pm - Vinay Fd Kitsw: <Media omitted>
+13/10/22, 12:46 pm - Vineeth Kumar: <Media omitted>
+13/10/22, 1:01 pm - Vinay Fd Kitsw: <Media omitted>
+13/10/22, 1:12 pm - Vinay Fd Kitsw: <Media omitted>
+20/10/22, 6:54 pm - Vinay Fd Kitsw: Dear Madam/Sir,
+
+ 
+
+We have sent login credentials to all the students.
+
+ 
+
+PFA - Consolidated sheet for your reference. You can share to the students who claim that they have not received.
+
+ 
+
+Test URL: https://amcatcampus.aspiringminds.com
+
+ 
+
+Its Auto Proctored Assessment. Live chat support and mail Support will be provided to all candidates.
+
+ 
+
+Thank you
+23/10/22, 12:15 pm - Vineeth Kumar: Many more happy returns of the day 🎂🎂🎂🎂🎂🎂🎂😍😍😍😍😍😍😍🥳🥳🥳🥳🥳🥳🥳🥳
+23/10/22, 12:15 pm - Vineeth Kumar: Ra vinay
+23/10/22, 12:16 pm - Vinay Fd Kitsw: <Media omitted>
+23/10/22, 12:16 pm - Vinay Fd Kitsw: Thanks mama 😍😍😍😍😍😍😍😍
+23/10/22, 12:16 pm - Vinay Fd Kitsw: Missed video call
+23/10/22, 12:49 pm - Vineeth Kumar: 😍😍😍
+24/10/22, 7:16 pm - Vinay Fd Kitsw: Missed voice call
+24/10/22, 9:45 pm - Vineeth Kumar: Array Naku lica
+24/10/22, 9:45 pm - Vineeth Kumar: Ex1 last questions
+24/10/22, 9:45 pm - Vineeth Kumar: Ss pampu ra
+24/10/22, 11:48 pm - Vinay Fd Kitsw: Y
+25/10/22, 8:01 am - Vineeth Kumar: Nenu rayaledhu ra
+25/10/22, 8:24 am - Vinay Fd Kitsw: Venkat ganni adugu ra neen koncham tappu rasa
+25/10/22, 8:24 am - Vineeth Kumar: Vandhi nve share chauradhu
+25/10/22, 8:24 am - Vineeth Kumar: Photo theesi
+25/10/22, 8:24 am - Vinay Fd Kitsw: Okay
+25/10/22, 8:28 am - Vinay Fd Kitsw: <Media omitted>
+25/10/22, 5:40 pm - Vineeth Kumar: <Media omitted>
+25/10/22, 5:40 pm - Vineeth Kumar: <Media omitted>
+27/10/22, 6:58 pm - Vineeth Kumar: Only integrator
+27/10/22, 6:58 pm - Vineeth Kumar: Ra
+27/10/22, 7:09 pm - Vineeth Kumar: <Media omitted>
+27/10/22, 7:25 pm - Vinay Fd Kitsw: Experiment aa
+27/10/22, 7:25 pm - Vineeth Kumar: Haaa
+27/10/22, 7:26 pm - Vinay Fd Kitsw: Chepina kadha
+27/10/22, 7:26 pm - Vinay Fd Kitsw: Ra
+27/10/22, 7:26 pm - Vinay Fd Kitsw: Neen
+27/10/22, 8:06 pm - Vinay Fd Kitsw: Lev ata ra
+27/10/22, 8:06 pm - Vinay Fd Kitsw: Night varak vastai kavachu
+27/10/22, 8:20 pm - Vineeth Kumar: Ohho ok
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: <Media omitted>
+27/10/22, 8:47 pm - Vinay Fd Kitsw: This message was deleted
+27/10/22, 8:47 pm - Vinay Fd Kitsw: This message was deleted
+27/10/22, 8:47 pm - Vinay Fd Kitsw: This message was deleted
+27/10/22, 8:47 pm - Vinay Fd Kitsw: This message was deleted
+27/10/22, 8:47 pm - Vinay Fd Kitsw: This message was deleted
+27/10/22, 8:47 pm - Vinay Fd Kitsw: This message was deleted
+27/10/22, 8:47 pm - Vinay Fd Kitsw: This message was deleted
+28/10/22, 12:13 am - Vinay Fd Kitsw: <Media omitted>
+28/10/22, 12:13 am - Vinay Fd Kitsw: <Media omitted>
+28/10/22, 6:54 pm - Vinay Fd Kitsw: Arey 23 ra nik cs
+28/10/22, 7:05 pm - Vineeth Kumar: Ok
+28/10/22, 7:05 pm - Vineeth Kumar: Ra
+01/11/22, 5:28 pm - Vinay Fd Kitsw: Arey rayale sakkaga
+01/11/22, 5:28 pm - Vinay Fd Kitsw: Verey vallani adugu
+01/11/22, 5:28 pm - Vineeth Kumar: Ok
+03/11/22, 3:40 pm - Vineeth Kumar: https://youtu.be/xMvb_druL18
+03/11/22, 3:42 pm - Vineeth Kumar: https://youtu.be/zVdjUjMatK0
+03/11/22, 7:30 pm - Vinay Fd Kitsw: 2.180 degrees, 3)1 4)T
+03/11/22, 7:30 pm - Vinay Fd Kitsw: The positive terminal of op amp is connected to feedback then it is positive  feedback. and input signal and feedback signal both are in phase
+03/11/22, 7:30 pm - Vinay Fd Kitsw: <Media omitted>
+03/11/22, 7:30 pm - Vinay Fd Kitsw: 1
+03/11/22, 7:30 pm - Vinay Fd Kitsw: 5
+04/11/22, 3:48 pm - Vinay Fd Kitsw: #Q2
+#Import libraries
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+#load data
+data_set= pd.read_csv('Salary_Data.csv')
+# Divide data into input and output variables
+x= data_set.iloc[:, :-1].values
+y= data_set.iloc[:, 1].values
+# Splitting the dataset into training and test set.
+x_train, x_test, y_train, y_test= train_test_split(x, y, test_size= 0.2, random_state=0)
+#Training the model with the help of fit function
+regressor= LinearRegression()
+regressor.fit(x_train, y_train)
+#Prediction for regression line
+y1_pred= regressor.predict(x_test)
+
+plt.scatter(x_train, y_train, color="green")
+plt.plot(x_test, y1_pred, color="red")
+plt.title("Salary vs Experience (Training Dataset)")
+plt.xlabel("Years of Experience")
+plt.ylabel("Salary(In Rupees)")
+plt.show()
+# Printing the accuracy score of the trained model
+score = regressor.score(x_test, y_test)
+print("\n Accuracy Score: ", score)
+print("\nSalary: ", y1_pred)
+05/11/22, 2:54 pm - Vinay Fd Kitsw: Arey ni PPT pampu ra
+05/11/22, 2:54 pm - Vineeth Kumar: Chayyaledhu
+05/11/22, 2:54 pm - Vineeth Kumar: Inka
+05/11/22, 2:54 pm - Vineeth Kumar: Evening chestha
+05/11/22, 2:55 pm - Vinay Fd Kitsw: Aha
+05/11/22, 2:55 pm - Vinay Fd Kitsw: Em chestunnav ra
+05/11/22, 2:55 pm - Vinay Fd Kitsw: Mari
+05/11/22, 2:55 pm - Vineeth Kumar: YouTube
+05/11/22, 2:55 pm - Vinay Fd Kitsw: Okay
+05/11/22, 2:55 pm - Vinay Fd Kitsw: Tinnava
+05/11/22, 2:55 pm - Vineeth Kumar: https://youtu.be/UfEuPPhvnB0
+05/11/22, 2:55 pm - Vineeth Kumar: Haa ra
+05/11/22, 5:40 pm - Vinay Fd Kitsw: <Media omitted>
+05/11/22, 7:51 pm - Vinay Fd Kitsw: https://www.instagram.com/reel/CjdTXiqLtwt/?igshid=MGMzMDdjNjc=
+05/11/22, 8:00 pm - Vineeth Kumar: 😍
+06/11/22, 6:23 pm - Vinay Fd Kitsw: <Media omitted>
+06/11/22, 6:24 pm - Vinay Fd Kitsw: <Media omitted>
+06/11/22, 6:26 pm - Vinay Fd Kitsw: <Media omitted>
+06/11/22, 7:12 pm - Vineeth Kumar: 🥳🥳🥳
+06/11/22, 7:12 pm - Vinay Fd Kitsw: 🫀
+06/11/22, 8:18 pm - Vineeth Kumar: Thisukunnara
+06/11/22, 8:28 pm - Vinay Fd Kitsw: Okay ra
+07/11/22, 3:16 pm - Vinay Fd Kitsw: <Media omitted>
+07/11/22, 7:22 pm - Vinay Fd Kitsw: Call chesav entra
+07/11/22, 7:24 pm - Vineeth Kumar: Urike ra
+07/11/22, 8:45 pm - Vinay Fd Kitsw: Hoo ok
+08/11/22, 9:18 pm - Vinay Fd Kitsw: Arey delta modulation ayindha ra
+08/11/22, 9:18 pm - Vinay Fd Kitsw: Miku
+08/11/22, 9:19 pm - Vineeth Kumar: No
+08/11/22, 9:19 pm - Vinay Fd Kitsw: Okay
+09/11/22, 6:30 pm - Vineeth Kumar: <Media omitted>
+09/11/22, 9:11 pm - Vineeth Kumar: https://youtube.com/shorts/KAupfbrwYj8?feature=share
+11/11/22, 1:17 pm - Vinay Fd Kitsw: Missed voice call
+11/11/22, 4:18 pm - Vineeth Kumar: https://youtube.com/shorts/qGbf_f9SAsQ?feature=share
+12/11/22, 8:52 pm - Vinay Fd Kitsw: Missed voice call
+13/11/22, 8:52 pm - Vinay Fd Kitsw: Missed voice call
+15/11/22, 9:39 am - Vineeth Kumar: Attendance try chayava mama
+15/11/22, 9:39 am - Vineeth Kumar: Ravatledhu nenu
+15/11/22, 9:40 am - Vineeth Kumar: Health problem undhi
+15/11/22, 12:47 pm - Vinay Fd Kitsw: Hoo
+15/11/22, 1:10 pm - Vinay Fd Kitsw: <Media omitted>
+15/11/22, 1:10 pm - Vineeth Kumar: <Media omitted>
+15/11/22, 1:11 pm - Vinay Fd Kitsw: <Media omitted>
+15/11/22, 9:59 pm - Vineeth Kumar: Mama awp Ass1
+15/11/22, 9:59 pm - Vineeth Kumar: Adugu mama
+15/11/22, 9:59 pm - Vineeth Kumar: Ece1
+15/11/22, 9:59 pm - Vineeth Kumar: Vallani
+16/11/22, 11:56 am - Vineeth Kumar: Pwm send chayva ra
+16/11/22, 11:59 am - Vinay Fd Kitsw: <Media omitted>
+16/11/22, 11:59 am - Vinay Fd Kitsw: <Media omitted>
+16/11/22, 11:59 am - Vinay Fd Kitsw: <Media omitted>
+16/11/22, 11:59 am - Vinay Fd Kitsw: <Media omitted>
+18/11/22, 11:34 am - Vinay Fd Kitsw: Normal call
+18/11/22, 11:34 am - Vinay Fd Kitsw: Cheye
+18/11/22, 11:34 am - Vinay Fd Kitsw: Ra
+18/11/22, 11:34 am - Vinay Fd Kitsw: Missed voice call
+18/11/22, 2:16 pm - Vineeth Kumar: Cs lab
+18/11/22, 2:17 pm - Vineeth Kumar: Viva na manaki
+18/11/22, 2:17 pm - Vineeth Kumar: Wednesday
+18/11/22, 2:18 pm - Vinay Fd Kitsw: ??
+18/11/22, 2:18 pm - Vinay Fd Kitsw: Haa kavachu
+18/11/22, 2:18 pm - Vineeth Kumar: Ok
+18/11/22, 4:40 pm - Vinay Fd Kitsw: https://www.goldmansachs.com/careers/students/programs/india/engineers-campus-hiring-program.html
+18/11/22, 4:40 pm - Vinay Fd Kitsw: https://www.youtube.com/watch?v=tMj6OPpTwNY
+18/11/22, 5:14 pm - Vinay Fd Kitsw: <Media omitted>
+18/11/22, 5:41 pm - Vinay Fd Kitsw: Edit cheye ra motham
+18/11/22, 5:42 pm - Vinay Fd Kitsw: Lepothey iddariki ostadi ata plagiarism
+18/11/22, 7:35 pm - Vineeth Kumar: Mama 90 vachindhi plagiarism
+18/11/22, 7:35 pm - Vineeth Kumar: 😭
+18/11/22, 7:35 pm - Vinay Fd Kitsw: Nijama
+18/11/22, 7:35 pm - Vineeth Kumar: Haa ra
+18/11/22, 7:35 pm - Vinay Fd Kitsw: Naku vastadhi ra mari
+18/11/22, 7:35 pm - Vineeth Kumar: Ayya
+18/11/22, 7:35 pm - Vineeth Kumar: Sry ra
+18/11/22, 7:36 pm - Vinay Fd Kitsw: Sarey ra
+18/11/22, 7:36 pm - Vineeth Kumar: 😂
+18/11/22, 7:36 pm - Vineeth Kumar: Abadham
+18/11/22, 7:36 pm - Vineeth Kumar: Chayyale
+18/11/22, 7:36 pm - Vineeth Kumar: Inka
+18/11/22, 7:36 pm - Vinay Fd Kitsw: Okay
+19/11/22, 11:40 am - Vineeth Kumar: lica doc malli  pampu ra
+19/11/22, 11:40 am - Vineeth Kumar: nen lang change chatha
+19/11/22, 11:41 am - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 11:52 am - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 12:39 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 1:04 pm - Vineeth Kumar: <Media omitted>
+19/11/22, 1:09 pm - Vineeth Kumar: <Media omitted>
+19/11/22, 2:54 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:34 pm - Vineeth Kumar: <Media omitted>
+19/11/22, 3:35 pm - Vinay Fd Kitsw: Y
+19/11/22, 3:35 pm - Vineeth Kumar: Choostha
+19/11/22, 3:35 pm - Vineeth Kumar: Okasari
+19/11/22, 3:35 pm - Vinay Fd Kitsw: Hoo
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vinay Fd Kitsw: <Media omitted>
+19/11/22, 3:36 pm - Vineeth Kumar: T10
+19/11/22, 3:36 pm - Vineeth Kumar: Variki send chayu ra
+19/11/22, 3:36 pm - Vinay Fd Kitsw: Ledhu
+19/11/22, 3:36 pm - Vinay Fd Kitsw: Ra
+19/11/22, 3:37 pm - Vinay Fd Kitsw: Nak venkat gad pampindu
+19/11/22, 3:37 pm - Vinay Fd Kitsw: Appudu
+19/11/22, 3:37 pm - Vinay Fd Kitsw: Nak kuda download kale
+19/11/22, 3:37 pm - Vineeth Kumar: <Media omitted>
+19/11/22, 3:37 pm - Vineeth Kumar: Ok
+20/11/22, 10:06 am - Vinay Fd Kitsw: Hlo
+20/11/22, 10:06 am - Vinay Fd Kitsw: This message was deleted
+20/11/22, 7:16 pm - Vinay Fd Kitsw: <Media omitted>
+20/11/22, 7:16 pm - Vinay Fd Kitsw: <Media omitted>
+20/11/22, 7:16 pm - Vinay Fd Kitsw: <Media omitted>
+20/11/22, 7:16 pm - Vinay Fd Kitsw: <Media omitted>
+20/11/22, 7:16 pm - Vinay Fd Kitsw: <Media omitted>
+20/11/22, 9:41 pm - Vinay Fd Kitsw: https://youtu.be/zSsXeixXlNs
+21/11/22, 4:21 pm - Vinay Fd Kitsw: Class ki poyina ra
+21/11/22, 8:57 pm - Vinay Fd Kitsw: Missed voice call
+22/11/22, 1:16 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 1:16 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 1:16 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 1:16 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 1:16 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 1:19 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 1:19 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 1:19 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 4:10 pm - Vinay Fd Kitsw: Missed voice call
+22/11/22, 5:21 pm - Vinay Fd Kitsw: Avasaram ledhu anta
+22/11/22, 5:21 pm - Vinay Fd Kitsw: Block diagram
+22/11/22, 5:21 pm - Vineeth Kumar: Ok
+22/11/22, 5:25 pm - Vinay Fd Kitsw: Experiments 13 aa
+22/11/22, 5:25 pm - Vinay Fd Kitsw: Adugu o sari
+22/11/22, 5:25 pm - Vineeth Kumar: Haa
+22/11/22, 5:52 pm - Vineeth Kumar: Psk lo calculation unnaya
+22/11/22, 5:52 pm - Vinay Fd Kitsw: Unnai
+22/11/22, 5:53 pm - Vineeth Kumar: Pampu mama
+22/11/22, 5:53 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 5:54 pm - Vineeth Kumar: Kanapadatle
+22/11/22, 5:54 pm - Vinay Fd Kitsw: <Media omitted>
+22/11/22, 9:12 pm - Vinay Fd Kitsw: <Media omitted>
+23/11/22, 7:55 am - Vinay Fd Kitsw: Call chesav enti ra
+24/11/22, 12:30 pm - Vineeth Kumar: You deleted this message
+24/11/22, 1:30 pm - Vineeth Kumar: https://youtube.com/shorts/ix_TuGCKJcY?feature=share
+24/11/22, 10:42 pm - Vinay Fd Kitsw: Chep ra
+24/11/22, 10:42 pm - Vineeth Kumar: Ami ledhu le ra
+24/11/22, 10:42 pm - Vinay Fd Kitsw: Okay
+24/11/22, 10:43 pm - Vinay Fd Kitsw: Vibration la undhi ra
+28/11/22, 4:41 pm - Vinay Fd Kitsw: Mathematical representation of waves
+Am eqns
+DM adm difference
+Power formulas
+28/11/22, 5:24 pm - Vinay Fd Kitsw: Missed voice call
+28/11/22, 7:29 pm - Vinay Fd Kitsw: Missed voice call
+28/11/22, 7:29 pm - Vinay Fd Kitsw: Missed voice call
+28/11/22, 7:29 pm - Vinay Fd Kitsw: Call venkat
+28/11/22, 7:30 pm - Vinay Fd Kitsw: Venkat ganiki pampu
+28/11/22, 7:34 pm - Vinay Fd Kitsw: Call venkat
+30/11/22, 7:16 pm - Vinay Fd Kitsw: Cheppu mama
+30/11/22, 7:27 pm - Vinay Fd Kitsw: Lyt ra
+30/11/22, 7:27 pm - Vinay Fd Kitsw: Nuv select ithav
+30/11/22, 7:28 pm - Vineeth Kumar: Bochu ra
+30/11/22, 7:28 pm - Vinay Fd Kitsw: Okay ra
+30/11/22, 7:28 pm - Vineeth Kumar: Chana wrong poyayi
+30/11/22, 7:28 pm - Vinay Fd Kitsw: Okay
+01/12/22, 11:43 am - Vinay Fd Kitsw: Counsellor
+01/12/22, 11:43 am - Vinay Fd Kitsw: Ki report chupinchu
+01/12/22, 11:43 am - Vinay Fd Kitsw: Plagiarism
+01/12/22, 11:58 am - Vinay Fd Kitsw: Missed voice call
+01/12/22, 11:59 am - Vinay Fd Kitsw: Pradeep sir unada
+01/12/22, 6:49 pm - Vineeth Kumar: Sir  danilo plagiarism  check chesadu ra
+02/12/22, 12:18 am - Vineeth Kumar: 👏
+02/12/22, 12:18 am - Vinay Fd Kitsw: <Media omitted>
+02/12/22, 12:19 am - Vineeth Kumar: <Media omitted>
+02/12/22, 12:20 am - Vineeth Kumar: Cake kopisthava repu mama
+02/12/22, 12:20 am - Vinay Fd Kitsw: Haa
+02/12/22, 12:20 am - Vineeth Kumar: Lekunte nee ijathi pothadhi
+02/12/22, 12:20 am - Vinay Fd Kitsw: Kopista
+02/12/22, 12:20 am - Vineeth Kumar: Ohhhh
+02/12/22, 12:20 am - Vinay Fd Kitsw: Aa
+02/12/22, 12:20 am - Vineeth Kumar: K mama gn
+02/12/22, 12:20 am - Vinay Fd Kitsw: Gn
+02/12/22, 9:25 am - Vinay Fd Kitsw: Cheppu ra
+02/12/22, 11:46 am - Vinay Fd Kitsw: Sathish gani mobile ni dantla ney undhi ra
+02/12/22, 12:26 pm - Vineeth Kumar: <Media omitted>
+02/12/22, 1:47 pm - Vinay Fd Kitsw: <Media omitted>
+02/12/22, 3:35 pm - Vinay Fd Kitsw: Missed voice call
+02/12/22, 3:38 pm - Vinay Fd Kitsw: Missed voice call
+03/12/22, 2:48 pm - Vinay Fd Kitsw: Arey call chesav
+03/12/22, 3:00 pm - Vinay Fd Kitsw: <Media omitted>
+03/12/22, 3:00 pm - Vinay Fd Kitsw: <Media omitted>
+03/12/22, 3:15 pm - Vineeth Kumar: Chay thak vachhindhi
+03/12/22, 3:15 pm - Vinay Fd Kitsw: Okay ra
+03/12/22, 3:16 pm - Vineeth Kumar: Monna cheppindha
+03/12/22, 3:16 pm - Vineeth Kumar: Idhi
+03/12/22, 3:16 pm - Vinay Fd Kitsw: Aa
+03/12/22, 3:16 pm - Vinay Fd Kitsw: 13 th page
+03/12/22, 3:16 pm - Vinay Fd Kitsw: Alla
+04/12/22, 10:51 am - Vineeth Kumar: Aray uhv
+04/12/22, 10:51 am - Vineeth Kumar: Pdf unte send chayu ra
+04/12/22, 10:52 am - Vineeth Kumar: Unit 4
+04/12/22, 10:52 am - Vinay Fd Kitsw: Lev ra
+04/12/22, 10:52 am - Vineeth Kumar: Kk
+04/12/22, 10:52 am - Vinay Fd Kitsw: Okay
+08/12/22, 1:59 pm - Vinay Fd Kitsw: Missed voice call
+08/12/22, 2:13 pm - Vinay Fd Kitsw: <Media omitted>
+09/12/22, 8:27 pm - Vinay Fd Kitsw: Call chesav
+10/12/22, 10:13 am - Vinay Fd Kitsw: Missed voice call
+13/12/22, 8:56 am - Vineeth Kumar: Aray oksari
+13/12/22, 8:56 am - Vineeth Kumar: Cs
+13/12/22, 8:56 am - Vineeth Kumar: FM
+13/12/22, 8:56 am - Vineeth Kumar: PDFs pettra
+13/12/22, 8:57 am - Vinay Fd Kitsw: <Media omitted>
+13/12/22, 8:57 am - Vinay Fd Kitsw: <Media omitted>
+14/12/22, 8:51 am - Vineeth Kumar: Hlo
+14/12/22, 9:01 am - Vinay Fd Kitsw: <Media omitted>
+14/12/22, 9:02 am - Vineeth Kumar: Tq
+14/12/22, 9:02 am - Vineeth Kumar: Bro
+14/12/22, 9:02 am - Vinay Fd Kitsw: Okay
+15/12/22, 10:56 am - Vineeth Kumar: Mama matplotlib pdf send chayvara
+15/12/22, 10:58 am - Vinay Fd Kitsw: Led ra
+17/12/22, 9:12 am - Vineeth Kumar: You deleted this message
+17/12/22, 9:13 am - Vinay Fd Kitsw: This message was deleted
+17/12/22, 9:13 am - Vinay Fd Kitsw: This message was deleted
+17/12/22, 9:40 am - Vineeth Kumar: You deleted this message
+17/12/22, 9:47 am - Vinay Fd Kitsw: Arey
+17/12/22, 9:47 am - Vinay Fd Kitsw: Call normal
+17/12/22, 9:48 am - Vineeth Kumar: <Media omitted>
+17/12/22, 9:48 am - Vinay Fd Kitsw: Call cheye 4a
+17/12/22, 9:48 am - Vinay Fd Kitsw: Medam led
+17/12/22, 9:48 am - Vinay Fd Kitsw: Sir led evar ler
+17/12/22, 10:39 am - Vinay Fd Kitsw: <Media omitted>
+17/12/22, 10:39 am - Vinay Fd Kitsw: <Media omitted>
+17/12/22, 10:40 am - Vinay Fd Kitsw: <Media omitted>
+17/12/22, 10:48 am - Vinay Fd Kitsw: Xerox tesi submit cheye
+17/12/22, 10:48 am - Vinay Fd Kitsw: Ra
+17/12/22, 11:12 am - Vinay Fd Kitsw: Nannu piluvu clg ki vachaka
+17/12/22, 11:11 am - Vinay Fd Kitsw: Missed voice call
+17/12/22, 11:13 am - Vineeth Kumar: Haa
+17/12/22, 11:14 am - Vinay Fd Kitsw: Missed voice call
+17/12/22, 11:16 am - Vineeth Kumar: <Media omitted>
+17/12/22, 11:16 am - Vinay Fd Kitsw: Ok
+17/12/22, 5:01 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 12:18 pm - Vineeth Kumar: <Media omitted>
+18/12/22, 12:18 pm - Vineeth Kumar: <Media omitted>
+18/12/22, 12:19 pm - Vinay Fd Kitsw: Inverting ra
+18/12/22, 12:19 pm - Vinay Fd Kitsw: Adhi
+18/12/22, 12:20 pm - Vinay Fd Kitsw: -rf/R1*v1
+18/12/22, 12:20 pm - Vineeth Kumar: 😭ook
+18/12/22, 12:20 pm - Vinay Fd Kitsw: Atla untadhi kavachu
+18/12/22, 12:21 pm - Vineeth Kumar: Choodu koledhu raa😭😭😭
+18/12/22, 12:21 pm - Vinay Fd Kitsw: Okay
+18/12/22, 3:34 pm - Vineeth Kumar: Ee photo clear ga pettavara
+18/12/22, 3:54 pm - Vinay Fd Kitsw: Venkat gad petad
+18/12/22, 6:45 pm - Vineeth Kumar: <Media omitted>
+18/12/22, 6:45 pm - Vineeth Kumar: Led
+18/12/22, 6:48 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 8:53 pm - Vineeth Kumar: Mama
+18/12/22, 8:53 pm - Vineeth Kumar: Mpmc anni PDFs send chayavara
+18/12/22, 8:53 pm - Vineeth Kumar: Please
+18/12/22, 8:53 pm - Vineeth Kumar: Naku download kavtledhu
+18/12/22, 9:14 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:14 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:14 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:14 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:14 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:16 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:16 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:16 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:16 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:17 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+18/12/22, 9:20 pm - Vinay Fd Kitsw: <Media omitted>
+22/12/22, 10:05 pm - Vineeth Kumar: <Media omitted>
+22/12/22, 10:05 pm - Vineeth Kumar: <Media omitted>
+22/12/22, 10:05 pm - Vineeth Kumar: <Media omitted>
+22/12/22, 10:05 pm - Vineeth Kumar: <Media omitted>
+25/12/22, 2:25 pm - Vinay Fd Kitsw: <Media omitted>
+25/12/22, 2:25 pm - Vinay Fd Kitsw: <Media omitted>
+25/12/22, 2:25 pm - Vinay Fd Kitsw: <Media omitted>
+25/12/22, 2:25 pm - Vinay Fd Kitsw: <Media omitted>
+25/12/22, 2:25 pm - Vinay Fd Kitsw: <Media omitted>
+25/12/22, 2:26 pm - Vineeth Kumar: As2
+25/12/22, 2:26 pm - Vineeth Kumar: Pampu ra
+25/12/22, 2:27 pm - Vinay Fd Kitsw: ..
+27/12/22, 5:39 pm - Vineeth Kumar: https://youtube.com/shorts/YUUoMIIHuUU?feature=share
+27/12/22, 5:39 pm - Vineeth Kumar: Avnara 😂😂😂😂
+27/12/22, 6:35 pm - Vinay Fd Kitsw: Kad
+28/12/22, 6:51 pm - Vinay Fd Kitsw: https://youtu.be/JYnEbcTCyVI
+29/12/22, 11:03 am - Vineeth Kumar: <Media omitted>
+29/12/22, 10:54 am - Vinay Fd Kitsw: <Media omitted>
+29/12/22, 11:06 am - Vineeth Kumar: <Media omitted>
+29/12/22, 11:07 am - Vinay Fd Kitsw: Edhey
+29/12/22, 11:09 am - Vinay Fd Kitsw: <Media omitted>
+29/12/22, 11:11 am - Vineeth Kumar: You deleted this message
+29/12/22, 11:11 am - Vineeth Kumar: You deleted this message
+29/12/22, 11:19 am - Vinay Fd Kitsw: <Media omitted>
+29/12/22, 11:19 am - Vinay Fd Kitsw: Edhi cheye ra
+29/12/22, 11:19 am - Vinay Fd Kitsw: Firstuu
+29/12/22, 11:19 am - Vinay Fd Kitsw: Ni mail chusi
+29/12/22, 11:58 am - Vinay Fd Kitsw: Ni mail open cheye
+29/12/22, 11:58 am - Vinay Fd Kitsw: Clg dhi
+29/12/22, 11:58 am - Vinay Fd Kitsw: Dantla
+29/12/22, 11:58 am - Vinay Fd Kitsw: Face prep kottu
+29/12/22, 11:59 am - Vineeth Kumar: Haa
+29/12/22, 11:59 am - Vinay Fd Kitsw: Undha alla
+29/12/22, 11:59 am - Vineeth Kumar: Undhi
+29/12/22, 11:59 am - Vinay Fd Kitsw: Mail la
+29/12/22, 11:59 am - Vineeth Kumar: Next
+29/12/22, 11:59 am - Vinay Fd Kitsw: A link midha click cheye
+29/12/22, 12:01 pm - Vinay Fd Kitsw: Continue ottu
+29/12/22, 2:13 pm - Vinay Fd Kitsw: ...
+29/12/22, 2:16 pm - Vinay Fd Kitsw: <Media omitted>
+29/12/22, 2:16 pm - Vinay Fd Kitsw: Add section
+29/12/22, 2:16 pm - Vineeth Kumar: <Media omitted>
+29/12/22, 2:16 pm - Vinay Fd Kitsw: Three dots
+29/12/22, 2:25 pm - Vineeth Kumar: <Media omitted>
+29/12/22, 2:26 pm - Vineeth Kumar: <Media omitted>
+30/12/22, 11:20 am - Vinay Fd Kitsw: https://youtu.be/1ITfLwx1NUw
+30/12/22, 1:26 pm - Vinay Fd Kitsw: vinayprabha039@gmail.com
+30/12/22, 1:26 pm - Vinay Fd Kitsw: ViNaY9014
+30/12/22, 1:26 pm - Vinay Fd Kitsw: Password
+31/12/22, 12:34 pm - Vineeth Kumar: *Teachnook(IIT BHUBANESWAR AND IBM)* 
+Virtual internship for 2 months in collaboration with Top MNC COMPANIES WITH INDUSTRIAL EXPERIENCE
+
+🔴 *Program Structure* 🔴
+
+☝🏻 First Month
+- Training from Industrial Mentors. 
+
+🤘🏻 Second Month
+- 2 Real time Live Projects. Minor,Major.
+
+
+ *Certificates* 🏅
+ *1.* *Internship Completion* certificate from MNC collabaration with Teachnook.
+
+ *2. Course completion certificate* from IIT BHUVANESHWAR.
+
+3. Microsoft Technology Associate Coupon/Autodesk Certificate
+
+ *4.Letter Of Recommendation* for Job reference
+
+*INTRESTED STUDENTS  FILL THE  GOOGLE FORM ASAP*
+
+https://forms.gle/tUGGYft4d7iw4Hsd7
+
+ *Hurry up* ❗❗❗
+31/12/22, 1:36 pm - Vineeth Kumar: I'll call you later.
+31/12/22, 1:36 pm - Vinay Fd Kitsw: Okay
+31/12/22, 3:07 pm - Vineeth Kumar: You deleted this message
+31/12/22, 3:09 pm - Vineeth Kumar: https://vineethkumar12.github.io/portfolio2/
+31/12/22, 3:12 pm - Vinay Fd Kitsw: <Media omitted>
+31/12/22, 3:12 pm - Vinay Fd Kitsw: ViNaY@9014
+31/12/22, 3:12 pm - Vinay Fd Kitsw: <Media omitted>
+31/12/22, 3:21 pm - Vinay Fd Kitsw: This message was deleted
+31/12/22, 3:21 pm - Vinay Fd Kitsw: This message was deleted
+31/12/22, 3:25 pm - Vinay Fd Kitsw: <Media omitted>
+31/12/22, 3:27 pm - Vinay Fd Kitsw: <Media omitted>
+31/12/22, 3:30 pm - Vinay Fd Kitsw: <Media omitted>
+31/12/22, 3:39 pm - Vineeth Kumar: <Media omitted>
+01/01/23, 12:02 am - Vinay Fd Kitsw: Happy Birthday ra
+01/01/23, 7:17 am - Vineeth Kumar: Tqsm 2 u ra😊
+01/01/23, 10:16 am - Vineeth Kumar: <Media omitted>
+01/01/23, 10:17 am - Vinay Fd Kitsw: Thanks ra
+01/01/23, 5:49 pm - Vineeth Kumar: Array 100 pampu ra
+01/01/23, 5:49 pm - Vinay Fd Kitsw: Pamputha agu
+01/01/23, 5:50 pm - Vineeth Kumar: Esarm lab akkadi ra
+01/01/23, 5:50 pm - Vineeth Kumar: K
+01/01/23, 5:50 pm - Vinay Fd Kitsw: Enti
+01/01/23, 5:50 pm - Vineeth Kumar: Ledu ka lab
+01/01/23, 5:50 pm - Vinay Fd Kitsw: Emo ra
+01/01/23, 5:50 pm - Vineeth Kumar: Group create chesaru
+01/01/23, 5:50 pm - Vinay Fd Kitsw: Telidhu
+01/01/23, 5:50 pm - Vineeth Kumar: K le
+01/01/23, 6:10 pm - Vinay Fd Kitsw: Account ledha
+01/01/23, 6:10 pm - Vinay Fd Kitsw: Aa ra
+01/01/23, 6:10 pm - Vineeth Kumar: 7036802558
+01/01/23, 6:10 pm - Vinay Fd Kitsw: Em cheyali
+01/01/23, 6:10 pm - Vinay Fd Kitsw: Phone pey
+01/01/23, 6:10 pm - Vinay Fd Kitsw: Na Google pay
+01/01/23, 6:11 pm - Vineeth Kumar: Dinilo anni unnay
+01/01/23, 6:11 pm - Vineeth Kumar: Phone pay chayu
+01/01/23, 6:11 pm - Vinay Fd Kitsw: Okay
+01/01/23, 6:12 pm - Vinay Fd Kitsw: Done ra
+02/01/23, 8:18 am - Vineeth Kumar: Akkada unnavu ra
+02/01/23, 8:19 am - Vinay Fd Kitsw: Bus la
+02/01/23, 8:19 am - Vineeth Kumar: Pothunnava eroju clg ki
+02/01/23, 8:19 am - Vinay Fd Kitsw: Emo ra
+02/01/23, 8:19 am - Vinay Fd Kitsw: Telvad
+02/01/23, 8:19 am - Vinay Fd Kitsw: Potha kavachu
+02/01/23, 8:20 am - Vineeth Kumar: Hstl ki vasthunnava
+02/01/23, 8:20 am - Vinay Fd Kitsw: Haa
+02/01/23, 8:20 am - Vineeth Kumar: Kk
+02/01/23, 8:20 am - Vinay Fd Kitsw: Evad ravatle
+02/01/23, 8:20 am - Vinay Fd Kitsw: Ata
+02/01/23, 8:20 am - Vineeth Kumar: Nenu ravtle
+02/01/23, 8:20 am - Vinay Fd Kitsw: Okay
+02/01/23, 8:20 am - Vinay Fd Kitsw: Bro
+02/01/23, 8:20 am - Vinay Fd Kitsw: Me single
+02/01/23, 8:20 am - Vinay Fd Kitsw: Attack
+02/01/23, 8:20 am - Vineeth Kumar: Mee frds unnaru kada
+02/01/23, 8:20 am - Vinay Fd Kitsw: Rep vastava
+02/01/23, 8:20 am - Vineeth Kumar: Haaa
+02/01/23, 8:20 am - Vinay Fd Kitsw: Bokkala frnds
+02/01/23, 8:20 am - Vinay Fd Kitsw: Evar ra
+02/01/23, 8:21 am - Vineeth Kumar: Girls
+02/01/23, 8:21 am - Vinay Fd Kitsw: Aha
+02/01/23, 8:21 am - Vineeth Kumar: Vasthunnaara
+02/01/23, 8:21 am - Vinay Fd Kitsw: Vallu telvad vastaro raro
+02/01/23, 8:21 am - Vinay Fd Kitsw: Mo ra
+02/01/23, 8:21 am - Vineeth Kumar: Oho
+02/01/23, 8:21 am - Vinay Fd Kitsw: Haa
+02/01/23, 8:21 am - Vineeth Kumar: Pottadu raada ra
+02/01/23, 8:21 am - Vineeth Kumar: IGA clg ki
+02/01/23, 8:21 am - Vinay Fd Kitsw: 100 vachaya
+02/01/23, 8:21 am - Vinay Fd Kitsw: Rad
+02/01/23, 8:21 am - Vineeth Kumar: Haa
+02/01/23, 8:21 am - Vinay Fd Kitsw: Haa rad ra
+02/01/23, 8:22 am - Vinay Fd Kitsw: Okk
+02/01/23, 8:22 am - Vinay Fd Kitsw: Tinnava
+02/01/23, 8:22 am - Vineeth Kumar: Oho
+02/01/23, 8:22 am - Vinay Fd Kitsw: Haa
+02/01/23, 8:22 am - Vineeth Kumar: Lee ippude lecha
+02/01/23, 8:22 am - Vinay Fd Kitsw: Hoo
+02/01/23, 8:22 am - Vinay Fd Kitsw: Rep vastava
+02/01/23, 8:22 am - Vinay Fd Kitsw: Mari clg ki
+02/01/23, 8:22 am - Vineeth Kumar: Haaa
+02/01/23, 8:22 am - Vinay Fd Kitsw: Okay
+02/01/23, 8:22 am - Vinay Fd Kitsw: Ra
+02/01/23, 8:22 am - Vineeth Kumar: Kk
+02/01/23, 8:23 am - Vinay Fd Kitsw: Sai
+02/01/23, 8:23 am - Vinay Fd Kitsw: Vastunada
+02/01/23, 8:23 am - Vineeth Kumar: Thalidhu
+02/01/23, 8:23 am - Vinay Fd Kitsw: Hoo
+02/01/23, 8:23 am - Vinay Fd Kitsw: Okay mari
+02/01/23, 8:23 am - Vinay Fd Kitsw: Brush chesko
+02/01/23, 8:24 am - Vinay Fd Kitsw: Ra
+02/01/23, 8:24 am - Vineeth Kumar: Haa k ra
+02/01/23, 8:28 am - Vineeth Kumar: Ravtle ra sai gadu
+02/01/23, 8:28 am - Vineeth Kumar: 4 th ki asthadata
+02/01/23, 8:28 am - Vinay Fd Kitsw: Okay
+02/01/23, 8:28 am - Vinay Fd Kitsw: Ra
+02/01/23, 8:28 am - Vineeth Kumar: K
+03/01/23, 5:54 pm - Vineeth Kumar: https://youtu.be/qUg33fTwfSo
+03/01/23, 6:00 pm - Vinay Fd Kitsw: Tesuko ra Xerox
+03/01/23, 6:53 pm - Vinay Fd Kitsw: Rani tesukuntundhi ata
+03/01/23, 6:53 pm - Vinay Fd Kitsw: Xerox dsp mpmc dhi
+03/01/23, 6:53 pm - Vinay Fd Kitsw: Cheppu ra tesukuntadho
+03/01/23, 6:53 pm - Vinay Fd Kitsw: Tesukuntadho
+03/01/23, 6:54 pm - Vinay Fd Kitsw: Tesukuntadhi
+03/01/23, 9:01 pm - Vineeth Kumar: <Media omitted>
+03/01/23, 9:01 pm - Vineeth Kumar: Edhena ra thisukonedhi
+03/01/23, 9:02 pm - Vinay Fd Kitsw: Mo ra telidhu
+03/01/23, 9:02 pm - Vinay Fd Kitsw: Ask ur frnd
+03/01/23, 9:02 pm - Vineeth Kumar: Adugu oksari
+03/01/23, 9:02 pm - Vineeth Kumar: Please
+03/01/23, 9:02 pm - Vineeth Kumar: Ra
+03/01/23, 9:02 pm - Vinay Fd Kitsw: Nuv adugu ra
+03/01/23, 9:02 pm - Vinay Fd Kitsw: Na valla kad.
+04/01/23, 5:53 pm - Vinay Fd Kitsw: <Media omitted>
+04/01/23, 5:54 pm - Vineeth Kumar: Haa  crt
+04/01/23, 5:54 pm - Vinay Fd Kitsw: Nijam aa
+04/01/23, 5:54 pm - Vineeth Kumar: Haa ra
+04/01/23, 5:54 pm - Vinay Fd Kitsw: Okay
+04/01/23, 6:00 pm - Vinay Fd Kitsw: <Media omitted>
+04/01/23, 6:01 pm - Vineeth Kumar: Chadama ra
+04/01/23, 6:01 pm - Vinay Fd Kitsw: Aa
+04/01/23, 6:02 pm - Vineeth Kumar: Holiday lo try chadam le
+04/01/23, 6:02 pm - Vinay Fd Kitsw: Okay
+04/01/23, 6:02 pm - Vinay Fd Kitsw: But medam ni adugale kadha ra
+04/01/23, 6:02 pm - Vineeth Kumar: Haa adugudam le
+04/01/23, 6:02 pm - Vineeth Kumar: Mam light
+04/01/23, 6:02 pm - Vinay Fd Kitsw: Okay ra
+04/01/23, 6:03 pm - Vineeth Kumar: Masam le
+04/01/23, 6:03 pm - Vineeth Kumar: Chesam kada
+04/01/23, 6:08 pm - Vinay Fd Kitsw: https://youtu.be/3dMK3t_1sas
+04/01/23, 6:12 pm - Vinay Fd Kitsw: <Media omitted>
+04/01/23, 6:13 pm - Vinay Fd Kitsw: Dorikithey cheppu
+04/01/23, 8:35 pm - Vineeth Kumar: <Media omitted>
+05/01/23, 3:23 pm - Vinay Fd Kitsw: Missed voice call
+08/01/23, 11:42 am - Vineeth Kumar: https://youtube.com/@RoboticsKanti
+08/01/23, 11:52 am - Vineeth Kumar: https://youtube.com/playlist?list=PLB6M2oiZYpKLHFy8U-Bry2_-aEtN0kkID
+09/01/23, 5:42 pm - Vinay Fd Kitsw: <Media omitted>
+10/01/23, 4:51 pm - Vinay Fd Kitsw: <Media omitted>
+12/01/23, 10:16 am - Vinay Fd Kitsw: <Media omitted>
+13/01/23, 5:02 pm - Vinay Fd Kitsw: <Media omitted>
+13/01/23, 5:02 pm - Vinay Fd Kitsw: Endhi ra edhi
+13/01/23, 5:02 pm - Vineeth Kumar: Thalidhu
+13/01/23, 5:02 pm - Vinay Fd Kitsw: Okay
+13/01/23, 5:03 pm - Vineeth Kumar: Course web gurinchi ra
+13/01/23, 5:03 pm - Vinay Fd Kitsw: Mudhey prepare iyyi ravale ata
+13/01/23, 5:03 pm - Vinay Fd Kitsw: Class ki
+13/01/23, 7:48 pm - Vineeth Kumar: <Media omitted>
+13/01/23, 7:49 pm - Vinay Fd Kitsw: Sarey anna
+13/01/23, 7:49 pm - Vinay Fd Kitsw: Motham completed aa anna
+13/01/23, 7:50 pm - Vineeth Kumar: <Media omitted>
+13/01/23, 7:51 pm - Vinay Fd Kitsw: Edhi ithey
+13/01/23, 7:51 pm - Vinay Fd Kitsw: Chestunnav kadha
+13/01/23, 7:51 pm - Vinay Fd Kitsw: Ey
+13/01/23, 7:51 pm - Vinay Fd Kitsw: Kani kani
+13/01/23, 7:52 pm - Vinay Fd Kitsw: Mi frnd msg chestundhs
+13/01/23, 7:53 pm - Vineeth Kumar: <Media omitted>
+13/01/23, 7:53 pm - Vineeth Kumar: No ra
+13/01/23, 7:53 pm - Vinay Fd Kitsw: Great
+13/01/23, 7:53 pm - Vineeth Kumar: Clg nundi chaytle
+13/01/23, 7:53 pm - Vineeth Kumar: Nenu chastha
+13/01/23, 7:53 pm - Vineeth Kumar: Chasthadhi
+13/01/23, 7:53 pm - Vineeth Kumar: Toor ki vellaru
+13/01/23, 7:53 pm - Vineeth Kumar: Vallu
+13/01/23, 7:54 pm - Vinay Fd Kitsw: Hoo
+13/01/23, 7:54 pm - Vinay Fd Kitsw: Okay
+13/01/23, 7:54 pm - Vineeth Kumar: Haa
+13/01/23, 7:54 pm - Vineeth Kumar: Nannu ramandhi
+13/01/23, 7:54 pm - Vineeth Kumar: Nenu ranu anna
+13/01/23, 7:54 pm - Vineeth Kumar: 😂😂
+13/01/23, 7:54 pm - Vinay Fd Kitsw: Okay
+13/01/23, 7:54 pm - Vinay Fd Kitsw: Inkey
+13/01/23, 7:54 pm - Vinay Fd Kitsw: Chatting
+13/01/23, 7:54 pm - Vineeth Kumar: Noo
+13/01/23, 7:55 pm - Vineeth Kumar: Friday Nadu cheppindhi
+13/01/23, 7:55 pm - Vinay Fd Kitsw: Hoo
+13/01/23, 7:55 pm - Vineeth Kumar: Haaa sare ra
+13/01/23, 7:55 pm - Vinay Fd Kitsw: Y
+13/01/23, 7:55 pm - Vineeth Kumar: https://youtu.be/HWJ5tr_GGJ4
+13/01/23, 7:55 pm - Vineeth Kumar: Idhi chudali
+13/01/23, 7:56 pm - Vineeth Kumar: Kk
+13/01/23, 7:56 pm - Vinay Fd Kitsw: Okay
+17/01/23, 11:54 am - Vinay Fd Kitsw: Manual raa
+17/01/23, 5:09 pm - Vineeth Kumar: <Media omitted>
+17/01/23, 5:11 pm - Vinay Fd Kitsw: Okay
+17/01/23, 9:13 pm - Vinay Fd Kitsw: <Media omitted>
+17/01/23, 9:27 pm - Vinay Fd Kitsw: <Media omitted>
+18/01/23, 8:16 am - Vinay Fd Kitsw: <Media omitted>
+18/01/23, 10:17 pm - Vineeth Kumar: DSP lab
+18/01/23, 10:17 pm - Vineeth Kumar: Rayali ata ra
+18/01/23, 10:18 pm - Vinay Fd Kitsw: Friday adhi
+18/01/23, 10:18 pm - Vinay Fd Kitsw: Lab
+18/01/23, 10:18 pm - Vinay Fd Kitsw: Eppudu endhuku
+18/01/23, 10:18 pm - Vineeth Kumar: Meee frds rasthunnaru
+18/01/23, 10:18 pm - Vineeth Kumar: Naku 101
+18/01/23, 10:18 pm - Vineeth Kumar: Cheppindhi
+18/01/23, 10:18 pm - Vinay Fd Kitsw: Mo nak telidhu
+18/01/23, 10:18 pm - Vinay Fd Kitsw: Hoo
+18/01/23, 10:19 pm - Vineeth Kumar: Mam cheppindhi ata
+18/01/23, 10:19 pm - Vinay Fd Kitsw: Hoo
+18/01/23, 10:19 pm - Vinay Fd Kitsw: Rep submit cheyalq
+18/01/23, 10:21 pm - Vineeth Kumar: Haa
+18/01/23, 10:21 pm - Vinay Fd Kitsw: Oo shut
+18/01/23, 10:22 pm - Vinay Fd Kitsw: Etla ra mari
+18/01/23, 10:23 pm - Vinay Fd Kitsw: Nak cheppale evar
+18/01/23, 10:23 pm - Vineeth Kumar: <Media omitted>
+18/01/23, 10:23 pm - Vineeth Kumar: <Media omitted>
+18/01/23, 10:23 pm - Vineeth Kumar: <Media omitted>
+18/01/23, 10:23 pm - Vineeth Kumar: <Media omitted>
+18/01/23, 10:23 pm - Vinay Fd Kitsw: Cheppale nak evar
+18/01/23, 10:23 pm - Vinay Fd Kitsw: Lab la correction ki kavachu
+18/01/23, 10:24 pm - Vineeth Kumar: Amo ra
+18/01/23, 10:24 pm - Vineeth Kumar: Nee istam
+18/01/23, 10:24 pm - Vineeth Kumar: Nenu kooda rastha lekunte ledhu
+18/01/23, 10:24 pm - Vineeth Kumar: Okasari mee frd ni adugu
+18/01/23, 10:25 pm - Vinay Fd Kitsw: Okay
+18/01/23, 10:40 pm - Vinay Fd Kitsw: Rayali ata ra
+18/01/23, 10:47 pm - Vinay Fd Kitsw: <Media omitted>
+18/01/23, 10:47 pm - Vinay Fd Kitsw: Print tey ra
+19/01/23, 8:25 am - Vineeth Kumar: Friday submit chestha ra nenu
+19/01/23, 8:25 am - Vinay Fd Kitsw: Okay
+19/01/23, 8:25 am - Vineeth Kumar: Raya ledu
+19/01/23, 8:25 am - Vinay Fd Kitsw: Okay
+19/01/23, 8:33 am - Vineeth Kumar: 100 rs send chayava ra avasaram undhi
+19/01/23, 8:33 am - Vinay Fd Kitsw: Liquid
+19/01/23, 8:33 am - Vinay Fd Kitsw: Ista
+19/01/23, 8:33 am - Vinay Fd Kitsw: Tesuko
+19/01/23, 8:33 am - Vineeth Kumar: K
+19/01/23, 8:34 am - Vinay Fd Kitsw: Marchipoyina
+19/01/23, 10:00 pm - Vinay Fd Kitsw: Pattuka ra
+19/01/23, 10:00 pm - Vinay Fd Kitsw: Rep
+19/01/23, 10:00 pm - Vinay Fd Kitsw: Marchipoku
+19/01/23, 10:19 pm - Vineeth Kumar: Mama Naku rani thisukunadta
+19/01/23, 10:19 pm - Vineeth Kumar: Ra
+19/01/23, 10:20 pm - Vinay Fd Kitsw: Cheppava ra
+19/01/23, 10:20 pm - Vinay Fd Kitsw: Tey nuv
+19/01/23, 10:20 pm - Vinay Fd Kitsw: Em kad
+19/01/23, 10:20 pm - Vineeth Kumar: Ok
+19/01/23, 10:20 pm - Vinay Fd Kitsw: Nak
+19/01/23, 10:20 pm - Vineeth Kumar: I will try
+19/01/23, 10:20 pm - Vinay Fd Kitsw: Try endhi ra
+19/01/23, 10:20 pm - Vineeth Kumar: Takku vasthe thestha
+19/01/23, 10:21 pm - Vinay Fd Kitsw: Sarle
+19/01/23, 10:21 pm - Vineeth Kumar: Mrng oksari call chayu
+19/01/23, 10:21 pm - Vinay Fd Kitsw: Okay
+19/01/23, 10:21 pm - Vineeth Kumar: K
+19/01/23, 10:21 pm - Vinay Fd Kitsw: Okay
+20/01/23, 7:00 am - Vinay Fd Kitsw: Pattuka ra ra
+20/01/23, 7:00 am - Vinay Fd Kitsw: Marchipoku
+20/01/23, 7:01 am - Vinay Fd Kitsw: Xerox
+20/01/23, 7:01 am - Vinay Fd Kitsw: Tey ra
+20/01/23, 7:01 am - Vinay Fd Kitsw: Mama marchipoku
+20/01/23, 7:01 am - Vinay Fd Kitsw: Marchipoku
+20/01/23, 7:01 am - Vinay Fd Kitsw: Arey asal marchipoku
+20/01/23, 7:04 am - Vineeth Kumar: Haa
+20/01/23, 1:32 pm - Vineeth Kumar: Record submit chesav ara
+22/01/23, 10:05 pm - Vinay Fd Kitsw: <Media omitted>
+22/01/23, 10:07 pm - Vineeth Kumar: <Media omitted>
+22/01/23, 10:08 pm - Vinay Fd Kitsw: 🤗
+22/01/23, 10:08 pm - Vinay Fd Kitsw: Xerox vaddu kadha
+22/01/23, 10:08 pm - Vinay Fd Kitsw: Nik
+22/01/23, 10:08 pm - Vineeth Kumar: No
+22/01/23, 10:08 pm - Vinay Fd Kitsw: Okay
+22/01/23, 10:08 pm - Vinay Fd Kitsw: Tesuko
+22/01/23, 10:09 pm - Vinay Fd Kitsw: Nuvvu
+22/01/23, 10:09 pm - Vineeth Kumar: Kani needi thisukunta
+22/01/23, 10:09 pm - Vinay Fd Kitsw: Adugale
+22/01/23, 10:09 pm - Vinay Fd Kitsw: Neen
+23/01/23, 8:37 pm - Vinay Fd Kitsw: Arey
+23/01/23, 8:37 pm - Vinay Fd Kitsw: Manual submit chesa ra
+23/01/23, 8:37 pm - Vineeth Kumar: Ok
+23/01/23, 8:37 pm - Vinay Fd Kitsw: Nidhi teley ra
+23/01/23, 8:37 pm - Vinay Fd Kitsw: Manual
+23/01/23, 8:37 pm - Vinay Fd Kitsw: Vad
+23/01/23, 8:37 pm - Vinay Fd Kitsw: Okay
+23/01/23, 8:37 pm - Vineeth Kumar: Haa thelusu
+23/01/23, 8:37 pm - Vinay Fd Kitsw: Okay
+24/01/23, 7:07 pm - Vinay Fd Kitsw: <Media omitted>
+24/01/23, 7:07 pm - Vinay Fd Kitsw: <Media omitted>
+24/01/23, 7:07 pm - Vinay Fd Kitsw: <Media omitted>
+24/01/23, 7:07 pm - Vinay Fd Kitsw: <Media omitted>
+28/01/23, 7:47 pm - Vinay Fd Kitsw: https://unstop.com/internship/frontend-software-engineering-internship-enterpret-597312?utm_source=Internships&utm_medium=D2C-Newsletters&utm_campaign=Eng-3rd-Year
+29/01/23, 1:19 pm - Vineeth Kumar: Aray oksari nee resume send chayura
+29/01/23, 1:53 pm - Vinay Fd Kitsw: <Media omitted>
+29/01/23, 2:00 pm - Vineeth Kumar: Aray oksari navaneeth linkedin profile send chayavara
+29/01/23, 2:36 pm - Vinay Fd Kitsw: Okay
+29/01/23, 2:38 pm - Vinay Fd Kitsw: https://www.linkedin.com/in/navaneeth7071
+29/01/23, 6:07 pm - Vineeth Kumar: Aray nuvvu
+29/01/23, 6:07 pm - Vineeth Kumar: Select chesina
+29/01/23, 6:07 pm - Vineeth Kumar: Topics names cheppara
+29/01/23, 6:07 pm - Vineeth Kumar: Mini project
+29/01/23, 6:08 pm - Vinay Fd Kitsw: <Media omitted>
+29/01/23, 6:08 pm - Vinay Fd Kitsw: <Media omitted>
+30/01/23, 1:24 pm - Vinay Fd Kitsw: Batch 2:  DSPA LAB: Next week  first 30 min will be given to complete 3rd experiment correction  and viva and then 4th experiment . So come to lab with write up in manual of 3rd experiment.
+30/01/23, 11:19 pm - Vineeth Kumar: *Teachnook(IIT BHUBANESWAR AND IBM)* 
+Virtual internship for 2 months in collaboration with Top MNC COMPANIES WITH INDUSTRIAL EXPERIENCE
+
+🔴 *Program Structure* 🔴
+
+☝🏻 First Month
+- Training from Industrial Mentors. 
+
+🤘🏻 Second Month
+- 2 Real time Live Projects. Minor,Major.
+
+
+ *Certificates* 🏅
+ *1.* *Internship Completion* certificate from MNC collabaration with Teachnook.
+
+ *2. Course completion certificate* from IIT BHUVANESHWAR.
+
+3. Microsoft Technology Associate Coupon/Autodesk Certificate
+
+ *4.Letter Of Recommendation* for Job reference
+
+*INTRESTED STUDENTS  FILL THE  GOOGLE FORM ASAP*
+
+https://forms.gle/tUGGYft4d7iw4Hsd7
+
+ *Hurry up* ❗❗❗
+31/01/23, 1:07 pm - Vinay Fd Kitsw: Chesava
+31/01/23, 1:09 pm - Vineeth Kumar: No ra
+31/01/23, 1:10 pm - Vinay Fd Kitsw: Okay
+31/01/23, 4:43 pm - Vineeth Kumar: <Media omitted>
+31/01/23, 4:44 pm - Vinay Fd Kitsw: Call u later
+31/01/23, 5:39 pm - Vinay Fd Kitsw: <Media omitted>
+31/01/23, 7:06 pm - Vinay Fd Kitsw: <Media omitted>
+31/01/23, 10:46 pm - Vineeth Kumar: Aray line space 1.5 kadara
+01/02/23, 12:31 am - Vinay Fd Kitsw: Aa
+01/02/23, 8:27 am - Vinay Fd Kitsw: <Media omitted>
+01/02/23, 8:28 am - Vineeth Kumar: Kk
+01/02/23, 5:33 pm - Vinay Fd Kitsw: <Media omitted>
+02/02/23, 4:11 pm - Vinay Fd Kitsw: <Media omitted>
+02/02/23, 4:11 pm - Vinay Fd Kitsw: vinayprabha039@gmail.com
+02/02/23, 4:11 pm - Vineeth Kumar: K
+02/02/23, 4:17 pm - Vineeth Kumar: <Media omitted>
+02/02/23, 4:18 pm - Vineeth Kumar: Kavali ante edit chesukovachu
+03/02/23, 5:59 pm - Vineeth Kumar: https://creativesavantz.com/turnitin-plagiarism-checker-free/
+05/02/23, 7:09 pm - Vineeth Kumar: Oka help qualr notes pampava
+05/02/23, 7:09 pm - Vinay Fd Kitsw: Slides unnai kadha ra
+05/02/23, 7:09 pm - Vineeth Kumar: Pamapava ra
+05/02/23, 7:09 pm - Vineeth Kumar: Anni
+05/02/23, 7:09 pm - Vineeth Kumar: First nundi
+05/02/23, 7:09 pm - Vinay Fd Kitsw: Okay
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+05/02/23, 7:10 pm - Vinay Fd Kitsw: <Media omitted>
+08/02/23, 5:29 pm - Vineeth Kumar: <Media omitted>
+08/02/23, 5:36 pm - Vineeth Kumar: You deleted this message
+09/02/23, 12:29 pm - Vineeth Kumar: <Media omitted>
+09/02/23, 12:31 pm - Vineeth Kumar: <Media omitted>
+09/02/23, 1:25 pm - Vineeth Kumar: https://vineethkumar12.github.io/portfolio2/
+12/02/23, 8:57 pm - Vinay Fd Kitsw: 100 rupees xam
+12/02/23, 8:57 pm - Vinay Fd Kitsw: Em iyyindhi
+13/02/23, 8:10 pm - Vineeth Kumar: Repu valentines day🥳🥳🥳🥳
+13/02/23, 8:10 pm - Vinay Fd Kitsw: Antha ledhu
+13/02/23, 8:10 pm - Vineeth Kumar: <Media omitted>
+13/02/23, 8:10 pm - Vinay Fd Kitsw: Ayipoyindhi
+13/02/23, 8:11 pm - Vinay Fd Kitsw: Neen vaddu ann
+13/02/23, 8:11 pm - Vinay Fd Kitsw: Anna
+13/02/23, 8:11 pm - Vinay Fd Kitsw: Lv givvu
+13/02/23, 8:11 pm - Vinay Fd Kitsw: Ani
+13/02/23, 8:11 pm - Vineeth Kumar: <Media omitted>
+13/02/23, 8:12 pm - Vinay Fd Kitsw: Yeah
+13/02/23, 8:12 pm - Vinay Fd Kitsw: Mast pain undhi ra
+13/02/23, 8:12 pm - Vineeth Kumar: Kk
+13/02/23, 8:12 pm - Vinay Fd Kitsw: Ndhuko telidhu
+13/02/23, 8:12 pm - Vinay Fd Kitsw: Na mind pani cheyatle
+13/02/23, 8:13 pm - Vinay Fd Kitsw: ??
+13/02/23, 8:13 pm - Vineeth Kumar: Oho
+13/02/23, 8:13 pm - Vinay Fd Kitsw: ??
+13/02/23, 8:13 pm - Vineeth Kumar: <Media omitted>
+13/02/23, 8:13 pm - Vineeth Kumar: Inka date rale
+13/02/23, 8:14 pm - Vinay Fd Kitsw: Okay
+13/02/23, 8:14 pm - Vineeth Kumar: Nenu cheptha le
+13/02/23, 8:14 pm - Vinay Fd Kitsw: Okay
+15/02/23, 9:59 am - Vineeth Kumar: Aray vlsi ki Naku attendance apivura
+15/02/23, 9:59 am - Vineeth Kumar: Nee badulu nake cheppaavara please
+15/02/23, 10:00 am - Vineeth Kumar: 69% undhi
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🦔🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏🙏
+15/02/23, 10:00 am - Vineeth Kumar: 🙏🙏🙏
+15/02/23, 10:02 am - Vineeth Kumar: Hlo
+15/02/23, 10:02 am - Vineeth Kumar: Hlo
+15/02/23, 10:07 am - Vinay Fd Kitsw: M pikutunnav
+15/02/23, 10:07 am - Vinay Fd Kitsw: Ra
+15/02/23, 10:07 am - Vineeth Kumar: Please ra
+15/02/23, 10:07 am - Vinay Fd Kitsw: Kastam ra
+15/02/23, 10:07 am - Vineeth Kumar: Bandi hand ichindhi
+15/02/23, 10:07 am - Vinay Fd Kitsw: Savu ra
+15/02/23, 10:07 am - Vineeth Kumar: Nee badulu Naku cheppu ra
+15/02/23, 10:07 am - Vineeth Kumar: 🙏🙏🙏🙏🙏🙏🙏
+15/02/23, 10:07 am - Vineeth Kumar: 🙏🙏🙏🙏
+15/02/23, 10:07 am - Vinay Fd Kitsw: Okka period chepta
+15/02/23, 10:07 am - Vineeth Kumar: 🙏🙏🙏🙏🙏🙏🙏
+15/02/23, 10:07 am - Vinay Fd Kitsw: Antey
+15/02/23, 10:08 am - Vineeth Kumar: Vlsi ki cheppu
+15/02/23, 10:08 am - Vinay Fd Kitsw: Okay
+15/02/23, 10:08 am - Vineeth Kumar: Ippudu ra
+15/02/23, 10:08 am - Vinay Fd Kitsw: Okay
+15/02/23, 10:08 am - Vinay Fd Kitsw: Chepta
+15/02/23, 10:08 am - Vineeth Kumar: Haa
+15/02/23, 10:08 am - Vinay Fd Kitsw: Okay
+15/02/23, 10:08 am - Vineeth Kumar: 🥹🥹🥹

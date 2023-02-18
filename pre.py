@@ -6,8 +6,8 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 def date_time(s):
     pattern='^([0-9]+)(\/)([0-9]+)(\/)([0-9]+), ([0-9]+):([0-9]+)[ ]?(AM|PM|am|pm)? -'
-
-    result=re.match(pattern, s)
+    pattern1='^([0-9]+)\/([0-9]+)\/([0-9]+),\s*([0-9]+):([0-9]+)\s*(AM|PM|am|pm)?\s*-\s*(.*)'
+    result=re.match(pattern1, s)
     if result:
         return True
     return False 
