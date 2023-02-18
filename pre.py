@@ -1,6 +1,7 @@
 import re
 import pandas as pd
 import nltk
+nltk.downloader.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 def date_time(s):
