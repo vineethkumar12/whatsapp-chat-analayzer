@@ -33,6 +33,7 @@ def most_busy_users(df):
     df = round((df['Contact'].value_counts() / df.shape[0]) * 100, 2).reset_index().rename(
         columns={'index': 'name', 'Contact': 'percent'})
     return x,df
+
 def create_wordcloud(selected_user,df):
 
     f = open('stop_hinglish.txt', 'r')
@@ -55,6 +56,10 @@ def create_wordcloud(selected_user,df):
     temp['Message'] = temp['Message'].apply(remove_stop_words)
     df_wc = wc.generate(temp['Message'].str.cat(sep=" "))
     return df_wc
+def percentage(df,k):
+    df = round((df['Contact'][df['value']==k].value_counts() / df[df['value']==k].shape[0]) * 100, 2).reset_index().rename(
+        columns={'index': 'name', 'Contact': 'percent'})
+    return df
 def most_common_words(selected_user,df):
 
     f = open('stop_hinglish.txt','r')

@@ -64,7 +64,7 @@ def preprocess(a):
         df = pd.DataFrame(data, columns=["Date", 'Time', 'Contact', 'Message'])
         df['Date'] = pd.to_datetime(df['Date'])
         df["Month"] = df["Date"].dt.month
-        df["MonthName "] = df["Date"].dt.month_name()
+        df["month_name "] = df["Date"].dt.month_name()
         df["Year"] = df["Date"].dt.year
         df["only_date"] = df['Date'].dt.date
         df['day_name'] = df['Date'].dt.day_name()
@@ -73,13 +73,26 @@ def preprocess(a):
         
         
         sentiments = SentimentIntensityAnalyzer()
-        data = data.assign(Positive=data["Message"].apply(lambda x: sentiments.polarity_scores(x)["pos"]))
-        data = data.assign(Negative=data["Message"].apply(lambda x: sentiments.polarity_scores(x)["neg"]))
-        data = data.assign(Neutral=data["Message"].apply(lambda x: sentiments.polarity_scores(x)["neu"]))
+        
+     
+        data["positive"] = [sentiments.polarity_scores(i)["pos"] for i in data["Message"]] # Positive
+        data["negative"] = [sentiments.polarity_scores(i)["neg"] for i in data["Message"]] # Negative
+        data["neutral"] = [sentiments.polarity_scores(i)["neu"] for i in data["Message"]] # Neutral
+    
+       
+        def sentiment(d):
+            if d["positive"] >= d["negative"] and d["positive"] >= d["neutral"]:
+                return 1
+            if d["negative"] >= d["positive"] and d["negative"] >= d["neutral"]:
+                return -1
+            if d["neutral"] >= d["positive"] and d["neutral"] >= d["negative"]:
+                return 0
 
-        x=sum(data["Positive"])
-        y=sum(data["Negative"])
-        z=sum(data["Neutral"])
+        data['value'] = data.apply(lambda row: sentiment(row), axis=1)
+
+        x=sum(data["positive"])
+        y=sum(data["negative"])
+        z=sum(data["neutral"])
 
         def score(a,b,c):
             if (a>b) and (a>c):
@@ -89,9 +102,9 @@ def preprocess(a):
             if (c>a) and (c>b):
                 return "Neutral"
 
-       
+        
         scr=score(x,y,z)
-    
+        
 
 
 
