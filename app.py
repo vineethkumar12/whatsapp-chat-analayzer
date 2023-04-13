@@ -12,9 +12,9 @@ if docx_file is not None:
    bytes_data=docx_file.getvalue()
    file_like_object = StringIO(bytes_data.decode("utf-8"))
    data,scr = pre.preprocess(file_like_object)
-   st.dataframe(data)
-	   #  unique users
-   
+   st.dataframe(data) #displaying the chat data in different columns in streamlit
+	   
+   # getting  unique users
    user_list = data['Contact'].unique().tolist()
    
    imagename=scr+".jpg"
@@ -51,6 +51,8 @@ if docx_file is not None:
             st.title(num_links)
 if a:
     if selected_user == 'Overall':
+            # its generate most buy users in graphically
+
             st.title('Most Busy Users')
             x,new_df = helper.most_busy_users(data)
             fig, ax = plt.subplots()
@@ -76,6 +78,8 @@ if a:
                 st.markdown("<h3 style='text-align: center; color: white;'>Most Negative Contribution</h3>",unsafe_allow_html=True)
                 z = helper.percentage(data, -1)    
                 st.dataframe(z)
+    # its generate word cloud
+
     st.title("Wordcloud")
     df_wc = helper.create_wordcloud(selected_user,data)
     fig,ax = plt.subplots()
@@ -87,6 +91,8 @@ if a:
 
     ax.barh(most_common_df[0],most_common_df[1])
     plt.xticks(rotation='vertical')
+
+   # its generate collection of most common words used in the chat
 
     st.title('Most commmon words')
     st.pyplot(fig)
@@ -101,7 +107,9 @@ if a:
             fig,ax = plt.subplots()
             ax.pie(emoji_df[1].head(),labels=emoji_df[1].head(),autopct="%0.2f")
             st.pyplot(fig)
-    
+
+    #generate dailt timeline graph
+
     st.title("Daily Timeline")
     daily_timeline = helper.daily_timeline(selected_user, data)
     fig, ax = plt.subplots()
@@ -112,6 +120,8 @@ if a:
     col1,col2 = st.columns(2)
 
     with col1:
+        # its generate most busy day in graphically
+
         st.header("Most busy day")
         busy_day = helper.week_activity_map(selected_user,data)
         fig,ax = plt.subplots()
@@ -119,6 +129,8 @@ if a:
         plt.xticks(rotation='vertical')
         st.pyplot(fig)
     with col2:
+        # its generate most busy month in graphically
+
         st.header("Most busy month")
         busy_month = helper.month_activity_map(selected_user, data)
         fig, ax = plt.subplots()

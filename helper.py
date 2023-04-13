@@ -28,15 +28,19 @@ def fetch_stats(selected_user,df):
         links.extend(extract.find_urls(message))
 
     return num_messages,len(words),num_media_messages,len(links)
+# fetching the most busy users in the chat file and that users returning to app file
+
 def most_busy_users(df):
     x = df['Contact'].value_counts().head()
     df = round((df['Contact'].value_counts() / df.shape[0]) * 100, 2).reset_index().rename(
         columns={'index': 'name', 'Contact': 'percent'})
     return x,df
+ 
+ # creating word cloud ant that words returning  to app file
 
 def create_wordcloud(selected_user,df):
 
-    f = open('stop_hinglish.txt', 'r')
+    f = open('stopwords.txt', 'r')
     stop_words = f.read()
 
     if selected_user != 'Overall':
@@ -56,13 +60,16 @@ def create_wordcloud(selected_user,df):
     temp['Message'] = temp['Message'].apply(remove_stop_words)
     df_wc = wc.generate(temp['Message'].str.cat(sep=" "))
     return df_wc
+# calculating percentage of positive ,negative and neutral sentiment of users messages and that returning to app file percentage funcnction 
+
 def percentage(df,k):
     df = round((df['Contact'][df['value']==k].value_counts() / df[df['value']==k].shape[0]) * 100, 2).reset_index().rename(
         columns={'index': 'name', 'Contact': 'percent'})
     return df
+# most common words are used in the chat file, that words are fetching and returning to app file most common words function
 def most_common_words(selected_user,df):
 
-    f = open('stop_hinglish.txt','r')
+    f = open('stopwords.txt','r')
     stop_words = f.read()
 
     if selected_user != 'Overall':
@@ -80,6 +87,8 @@ def most_common_words(selected_user,df):
 
     most_common_df = pd.DataFrame(Counter(words).most_common(20))
     return most_common_df
+# collecting number of emojis  in the chat file and that returning to app file  emoji helper fuction
+
 def emoji_helper(selected_user,df):
     if selected_user != 'Overall':
         df = df[df['Contact'] == selected_user]
@@ -92,7 +101,8 @@ def emoji_helper(selected_user,df):
 
     return emoji_df
 
-  
+  # daily time line of users
+
 def daily_timeline(selected_user,df):
 
     if selected_user != 'Overall':
@@ -101,7 +111,7 @@ def daily_timeline(selected_user,df):
     daily_timeline = df.groupby('only_date').count()['Message'].reset_index()
 
     return daily_timeline
-
+  # calculating most busy day according 
 def week_activity_map(selected_user,df):
 
     if selected_user != 'Overall':

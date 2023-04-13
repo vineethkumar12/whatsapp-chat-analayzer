@@ -61,25 +61,26 @@ def preprocess(a):
            
 
 
-        df = pd.DataFrame(data, columns=["Date", 'Time', 'Contact', 'Message'])
-        df['Date'] = pd.to_datetime(df['Date'])
-        df["Month"] = df["Date"].dt.month
-        df["month_name "] = df["Date"].dt.month_name()
-        df["Year"] = df["Date"].dt.year
-        df["only_date"] = df['Date'].dt.date
-        df['day_name'] = df['Date'].dt.day_name()
-        
+        df = pd.DataFrame(data, columns=["Date", 'Time', 'Contact', 'Message'])# the framing data initilizing to df variable 
+        df["Date"] = pd.to_datetime(df["Date"])
+        df["month_name "] = df["Date"].dt.month_name()# # fetching the monthname from Date column  in df list and that monthname passing to newcolumn Month
+        df['day_name'] = df["Date"].dt.day_name()# fetching the dayname from Date column  in df list and that dayname passing to newcolumn day_name
+        df["Month"] = df["Date"].dt.month.astype('int64') # # fetching the monthnumber from Date column  in df list and that monthnumber passing to newcolumn Month
+        df["Year"] = df["Date"].dt.year.astype('int64') # fetching the year from Date column  in df list and that year passing to newcolumn Year
+        df["only_date"] = df["Date"].dt.date# fetching the Date from Date column  in df list and that date passing to newcolumn only_date
+        df["Date"] = df["Date"].dt.date         # fetching the Date from Date column  in df list and that date passing to newcolumn Date
+
         data = df.dropna() 
         
         
         sentiments = SentimentIntensityAnalyzer()
         
-     
-        data["positive"] = [sentiments.polarity_scores(i)["pos"] for i in data["Message"]] # Positive
-        data["negative"] = [sentiments.polarity_scores(i)["neg"] for i in data["Message"]] # Negative
-        data["neutral"] = [sentiments.polarity_scores(i)["neu"] for i in data["Message"]] # Neutral
+        data1 = data.copy()
+        data1.loc[:, 'positive'] = [sentiments.polarity_scores(i)["pos"] for i in data1["Message"]]#neutral
+        data1.loc[:, 'negative'] = [sentiments.polarity_scores(i)["neg"] for i in data1["Message"]] # Negative
+        data1.loc[:, 'neutral'] = [sentiments.polarity_scores(i)["neu"] for i in data1["Message"]] # Neutral
     
-       
+       # calculating overall sentiment and that overall sentiment returning as for positive is 1, negative is -1, neutral is 0
         def sentiment(d):
             if d["positive"] >= d["negative"] and d["positive"] >= d["neutral"]:
                 return 1
@@ -88,11 +89,11 @@ def preprocess(a):
             if d["neutral"] >= d["positive"] and d["neutral"] >= d["negative"]:
                 return 0
 
-        data['value'] = data.apply(lambda row: sentiment(row), axis=1)
+        data1.loc[:,'value'] = data1.apply(lambda row: sentiment(row), axis=1)
 
-        x=sum(data["positive"])
-        y=sum(data["negative"])
-        z=sum(data["neutral"])
+        x=sum(data1["positive"]) # summation of all values of positive column
+        y=sum(data1["negative"])# summation of all values of negative column
+        z=sum(data1["neutral"])# summation of all values of neitral column
 
         def score(a,b,c):
             if (a>b) and (a>c):
@@ -108,7 +109,7 @@ def preprocess(a):
 
 
 
-        return data,scr
+        return data1,scr
        
 
 
